@@ -1,0 +1,278 @@
+/*
+Theme Name: cactus
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+	text-align:right; 
+}
+
+button, input[type=button], input[type=submit], .btn-default { margin-right:auto; margin-left:6px;}
+
+header .nav-default > .navbar-default > .container > .navbar-header { float:right; margin-left:0; margin-right:-15px;}
+.navbar-right { float:left !important}
+.navbar-nav>li { float:right;}
+header .nav-default > .navbar-default .navbar-nav.navbar-right:not(.search):not(.buy-theme):not(.main-menu) { margin-right:0; margin-left:-35px;}
+header .nav-default.index-v3 > .navbar-default .navbar-nav.navbar-right:not(.search):not(.buy-theme):not(.main-menu) { margin-left:0;}
+header .nav-default > .navbar-default .navbar-nav.search>li>a {margin-right: 30px; margin-left: -35px;}
+header .nav-default.index-v3 > .navbar-default .navbar-nav.search.sub>li>a { margin-left:0; margin-right:0;}
+header .nav-default > .navbar-default .navbar-nav.buy-theme>li>a {margin-right: 55px; margin-left: -35px;}
+
+.cactus-form-header .button-search-top { right:auto; left:15px;}
+.cactus-form-header .button-search-top:before { margin-right:4px; margin-left:auto}
+.cactus-form-header .button-search-top:after { margin-right:27px; margin-left:auto}
+
+header .nav-default > .navbar-default.fixed-menu .cactus-form-header .button-search-top { right:auto; left:15px; margin-top:-24px;}
+header .nav-default > .navbar-default.fixed-menu .cactus-form-header .button-search-top:before { margin-right: 4px; margin-left: auto;}
+header .nav-default > .navbar-default.fixed-menu .cactus-form-header .button-search-top:after { margin-left: auto; margin-right: 23px;}
+
+header .nav-default.index-v3 > .navbar-default .navbar-nav.buy-theme>li>a { margin:0;}
+header .nav-default.index-v3 > .navbar-default .cactus-form-header .button-search-top { right:auto; left:15px; margin-top:2px}
+header .nav-default.index-v3 > .navbar-default .cactus-form-header .button-search-top:before {margin-left: auto; margin-right: 4px;}
+header .nav-default.index-v3 > .navbar-default .cactus-form-header .button-search-top:after {margin-left: auto; margin-right: 23px;}
+
+#off-canvas .close-canvas-menu .close-button-1:before {margin-left: auto; margin-right: 4px;}
+#off-canvas .close-canvas-menu .close-button-1:after {margin-left: auto; margin-right: 27px;}
+
+.cactus-form-mobile .button-search-mobile {right: auto; left:-16px;}
+.cactus-form-mobile .button-search-mobile:before {margin-left: auto; margin-right: -12px;}
+.cactus-form-mobile .button-search-mobile:after {margin-left: auto; margin-right: -1px;}
+
+.header-v2.slider .text-content .text-1 { width:100%; padding-left:50%;}
+.header-v2.slider .text-content .text-3 {width:100%; padding-left:50%;}
+
+.list-post-nav .picture-content .picture .social-content .social-listing li { direction:ltr; text-align:left}
+.list-post-nav .title-content .title-item {border-left:none; border-right:3px solid rgba(153,153,153,0.3);}
+.list-post-nav .title-content .title-item:hover, .list-post-nav .title-content .title-item.active {border-left:none; border-right: 3px solid rgba(37,195,216,1.0);}
+.list-post-nav .mCSB_scrollTools { left:-10px; right:auto}
+
+@media(max-width:1199px) {
+	header .nav-default > .navbar-default .navbar-nav.buy-theme>li>a {margin-right: 45px; margin-left: -25px;}
+	header .nav-default > .navbar-default > .container > .navbar-header { float:right}
+	header .nav-default.index-v3 > .navbar-default > .container > .navbar-header { float:none}
+	
+}
+
+@media (max-width: 991px) {
+	header .nav-default > .navbar-default > .container > .navbar-header { float:none}
+	.header-v2.slider .text-content .text-1 { width:100%; padding-left:0;}
+	.header-v2.slider .text-content .text-3 {width:100%; padding-left:0;}
+}
+
+#MashMenu > ul[id^="menu-megamenu"].main-menu { margin-right:auto; margin-left:-35px}
+header .nav-default.index-v3 > .navbar-default #MashMenu > ul[id^="menu-megamenu"].main-menu { margin-right:0; margin-left:0;}
+
+li[id*="mega-menu-item-"] div.sub-content.dropdown-menu {margin-left:15px; margin-right:15px; text-align:right}
+li[id*="mega-menu-item-"]:hover div.sub-content.dropdown-menu { margin-left:auto; margin-right:15px;}
+li[id*="mega-menu-item-"] div.sub-content.dropdown-menu ul.sub-channel { margin-right:auto; margin-left:-4px;}
+li[id*="mega-menu-item-"] div.sub-content.dropdown-menu div.channel-content { margin-right:auto; margin-left:-4px;}
+li[id*="mega-menu-item-"]:hover div.sub-content.dropdown-menu.sub-menu-box-tabs:after {right: auto; left:0;}
+
+/*hack for IE9*/
+	#off-canvas {left:auto\9; right:100%\9; z-index:9999999;}
+	#off-canvas.open-true {left:0\9; right:auto\9;}
+/*hack for IE9*/
+
+.cactus-wraper-slider-bg { direction:ltr}
+.widget_calendar caption { text-align:right}
+caption, th, td { text-align:right}
+
+.wptt_TwitterTweets ul.fetched_tweets li.tweets_avatar .times { float:right}
+.widget-social-listing .social-listing li { direction:ltr; text-align:left; margin-right:auto; margin-left:26px;}
+
+.widget-latest-posts .related-posts-content .related-posts-item .picture { margin-left:-4px; margin-right:auto; padding-right:0; padding-left:20px;}
+.widget-latest-posts .related-posts-content .related-posts-item .content { margin-right:auto; margin-left:-4px;}
+
+aside.widget_search form:before { right:auto; left:0; margin-left:20px; margin-right:auto;}
+aside.widget_search .search-submit {right: auto; left:2px;}
+aside.widget_search input[type="search"] { padding-right:20px; padding-left:40px;}
+.widget-latest-comments .comment-content a:after {left: auto; right: 20px;}
+.widget_categories li a, .widget_meta li a, .widget_archive li a, .widget_recent_entries li a, .widget_recent_comments li a, .widget_pages li a, .widget_nav_menu li a { padding-left:0; padding-right:26px;}
+.widget_categories li a:before, .widget_meta li a:before, .widget_archive li a:before, .widget_recent_entries li a:before, .widget_pages li a:before, .widget_nav_menu li a:before {content: "\f104"; left:auto; right:0;}
+
+.listing-sc-content.menu li a {padding: 12px 40px 14px 20px;}
+.listing-sc-content.menu li a:before {left: auto; right: 20px; content: "\f104";}
+.listing-sc-content.menu li:hover a:before {transform: rotate(-90deg); -webkit-transform: rotate(-90deg);}
+.listing-sc-content.menu.click li.active a:before {transform: rotate(-90deg); -webkit-transform: rotate(-90deg);}
+.listing-sc-content.menu.click li:hover a:before {left: auto; right:20px;}
+
+.wptt_TwitterTweets ul.fetched_tweets li.tweets_avatar { padding: 0 45px 0 0 !important;}
+.wptt_TwitterTweets ul.fetched_tweets li.tweets_avatar:before { left:auto; right:0;}
+
+.list-content.post-grid .cactus-icon-picture { direction:ltr; text-align:left}
+.list-content.post-grid .item-title .note-wrap { padding-left:0; padding-right:4px; margin-right:auto; margin-left:6px;}
+
+.list-content.post-grid .item-author .hidden-social.sub { left:0; right:auto}
+.list-content.post-grid.post-wide .item-author .hidden-social.sub { left:0; right:auto}
+.list-content.post-grid.post-special .list-item .item-author .hidden-social.sub {left:0; right:auto; padding-right:0; padding-left:20px;}
+.list-content.post-grid.post-classic .item-author .hidden-social.sub {left:0; right:auto}
+
+.list-content.post-grid .item-author .hidden-social.sub li { direction:ltr; text-align:left}
+.list-content.post-grid .item-author .author-pic > div { margin-right:auto; margin-left:10px;}
+.list-content.post-grid .item-info .time > span { text-align:left}
+.list-content.post-grid .cactus-related-posts .cactus-divider .line-50.one .line-fix { float:left}
+.list-content.post-grid .cactus-related-posts .cactus-divider .line-50.two .line-fix { float:right} 
+
+.hidden-social-button > div { margin-top:0;}
+.hidden-social-button > div:before {margin-left: auto; margin-right: 4px;}
+.hidden-social-button > div:after {margin-left: auto; margin-right: 18px;}
+
+.social-listing li { direction:ltr; text-align:left}
+
+.list-content.post-grid .list-item .slider-list.is-slider-post-list { direction:ltr}
+
+.i-p-author .author-content .author-pic .img-oval { margin-right:auto; margin-left:30px;}
+@media (max-width: 767px){
+	.i-p-author .author-content .author-pic .img-oval {
+		margin-left: -4px;
+	}
+}
+
+.p-related-posts .related-posts-content .related-posts-item .picture { margin-right:auto; margin-left:-4px; padding-right:0; padding-left:20px;}
+.cactus-gallery-v2-content { direction:ltr}
+.cactus-single-page .single-page-content .title-content .text-3 .picture-author { margin-right:auto; margin-left:7px}
+
+.body-content ul li { padding-left:0; padding-right:26px;}
+.body-content ul li ul { margin-left:0;}
+.body-content ul > li:before{ display:none;}
+.body-content ul > li:after{content: "\f104"; font-family: "FontAwesome"; position: absolute; left: auto; right:0; top: 5px; line-height: 1;}
+.body-content ol { padding-left:0; padding-right:22px;}
+
+#comments .comment-list .comment-body .reply {right:auto; left:0;}
+#comments .comment-list .comment-author b.fn { left:auto; right:70px}
+#comments .comment-list .comment-body .comment-metadata {left: auto; right:70px;}
+#comments .comment-list .comment-body .comment-content {padding-left:0; padding-right:10px;}
+#comments ol.children { padding-left:0; padding-right:70px;}
+#comments .comment-list ol.children .comment-body .reply { right:auto; left:0;}
+#comments .comment-list ol.children .comment-body .comment-content p { padding-right:10px;}
+#comments > h2.comments-title { padding-right:0;}
+#comments ol.children ol.children {padding-right: 0;}
+
+@media(max-width:767px) {
+	#comments ol.children {
+		padding-right: 0;
+	}
+	#comments .comment-list .comment-body .reply {
+		right: 8px;
+		left: auto;
+		width:45px;
+	}
+	#comments .comment-list ol.children .comment-body .reply { right: 8px; left:auto;}
+}
+
+#comments #cancel-comment-reply-link { left:auto; right:180px; margin-left:auto; margin-right:35px;}
+
+blockquote { text-align:right}
+.share-group .share-this { right:auto; direction:rtl; left:100%; margin-right: auto; margin-left: 25px;}
+@media (max-width: 630px){
+	.share-group .share-this {right: auto; left:auto; margin-right: 0; margin-left:0;text-align: center;}
+}
+
+.n-p-posts .n-post { text-align:right}
+.n-p-posts .n-post .nav-bt {margin-left: auto; margin-right: 150px;}
+.n-p-posts .n-post .nav-title { margin: 0 45px 43px 250px;}
+
+.n-p-posts .p-post { text-align:left}
+.n-p-posts .p-post .nav-bt {margin-left: 150px; margin-right: auto;}
+.n-p-posts .p-post .nav-title { margin: 0 250px 43px 45px;}
+
+@media(max-width:1199px) {
+	.n-p-posts .n-post .nav-title {margin: 0 45px 43px 150px;}
+	.n-p-posts .p-post .nav-title {margin: 0 150px 43px 45px;}
+}
+
+@media(max-width:991px) {
+	.n-p-posts .n-post .nav-title {margin: 0 30px 43px 30px;}
+	.n-p-posts .p-post .nav-title {margin: 0 30px 43px 30px;}
+	.n-p-posts .p-post .nav-bt, .n-p-posts .n-post .nav-bt {margin-left: 20px; margin-right: 20px;}
+}
+@media (max-width: 550px) {
+	.n-p-posts .n-post .nav-title, .cactus-single-page .col-md-8.fix-right-left .single-page-content .n-p-posts .n-post .nav-title {margin-bottom: 0;padding-bottom: 0;}
+	.n-p-posts .p-post .nav-title, .cactus-single-page .col-md-8.fix-right-left .single-page-content .n-p-posts .p-post .nav-title {margin-bottom: 0;padding-bottom: 0;}
+}
+
+.tag-group a {margin-right: auto; margin-left: 6px;}
+
+.container-version-6 .version-6-row .version-6-table-left .menu-background { left:auto; right:0;}
+.container-version-6 .version-6-row .version-6-table-left { margin-right:auto; margin-left:-4px;}
+.container-version-6 .version-6-row .version-6-table-right {margin-right:auto; margin-left:-4px;}
+.container-version-6 footer .row .widget-col { margin-right:auto; margin-left:-4px;}
+.container-version-6 .version-6-row .version-6-table-left .off-canvas-inner .off-menu > ul > li { text-align:right}
+.container-version-6 .version-6-row .version-6-table-left header a { text-align:right}
+
+.list-content.post-grid .list-item { margin-right:auto; margin-left:-4px;}
+.list-content.post-masonry .list-item, .list-content.modern-grid.modern-masonry .list-item { margin-left:0; margin-right:0;}
+.list-content.post-grid.post-special .list-item.fix-50 { margin-right:auto; margin-left:-4px;}
+
+.container-version-6 .list-content.post-grid:not(.post-special):not(.post-classic):not(.post-wide):not(.post-masonry):not(.modern-masonry) .col-md-8.fix-right-left .list-item {margin-right:auto; margin-left:-4px;}
+	
+.container-version-6 .version-6-row .version-6-table-left .cactus-form-mobile .button-search-mobile { right:auto; left:-19px;}
+.container-version-6 .version-6-row .version-6-table-left .cactus-form-mobile .button-search-mobile:before { margin-left:-12px; margin-right:10px;}
+.container-version-6 .version-6-row .version-6-table-left .cactus-form-mobile .button-search-mobile:after { margin-left:-1px; margin-right:21px}
+
+.version-6-table-right .container.next-top-header .button-to-top { left:15px; margin-left:0; margin-bottom:15px;}
+
+@media (max-width: 767px) {
+	.container-version-6 .version-6-row .version-6-table-right {width: 100%;display: block;margin-right: 0;margin-left: 0;}
+	.version-6-table-right .container.next-top-header .button-to-top {left: 50%;bottom: 30px;margin-bottom: 0;margin-left: -17px;z-index: 1;}
+}
+table:not(#wp-calendar) tbody tr:first-child > *:first-child {border-top-left-radius:0px; border-bottom-left-radius:0px; -webkit-border-top-left-radius:0px;-webkit-border-bottom-left-radius:0px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; -webkit-border-top-right-radius: 3px; -webkit-border-bottom-right-radius: 3px;}
+table:not(#wp-calendar) tbody tr:first-child > *:last-child {border-top-right-radius: 0px; border-bottom-right-radius: 0px; -webkit-border-top-right-radius: 0px; -webkit-border-bottom-right-radius: 0px; border-top-left-radius:3px; border-bottom-left-radius:3px; -webkit-border-top-left-radius:3px;-webkit-border-bottom-left-radius:3px;}
+
+table:not(#wp-calendar) thead tr:first-child > *:first-child {border-top-left-radius:0px; border-bottom-left-radius:0px; -webkit-border-top-left-radius:0px;-webkit-border-bottom-left-radius:0px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; -webkit-border-top-right-radius: 3px; -webkit-border-bottom-right-radius: 3px;}
+table:not(#wp-calendar) thead tr:first-child > *:last-child {border-top-right-radius: 0px; border-bottom-right-radius: 0px; -webkit-border-top-right-radius: 0px; -webkit-border-bottom-right-radius: 0px; border-top-left-radius:3px; border-bottom-left-radius:3px; -webkit-border-top-left-radius:3px;-webkit-border-bottom-left-radius:3px;}
+
+.list-wrap .list-content.post-grid.modern-grid.portfolio-grid.portfolio-masonry .tag-group a { margin-right:0; margin-left:6px;}
+.container-version-6 .list-wrap .list-content.post-grid.modern-grid.portfolio-grid .tag-group {padding-left:30px; padding-right:30px;}	
+.list-content.post-grid .list-item .item-title { direction:ltr; text-align:right}
+
+.list-content.post-grid.modern-grid.portfolio-grid .list-item, .list-content.post-grid.modern-grid .list-item{ margin-left:0; margin-right:0;}
+
+.wp-pagenavi a, .wp-pagenavi span {margin: 0px 0px 10px 10px;}
+
+.wp-pagenavi a:last-child, .wp-pagenavi span:last-child {margin: 0px 0px 10px 0;}
+
+.page-navigation .paging-navigation .nav-previous {text-align:right;}
+.page-navigation .paging-navigation .nav-next { text-align:left; padding-left:2px;}
+.page-navigation .paging-navigation .nav-previous, .page-navigation .paging-navigation .nav-next {margin-right:auto; margin-left:-2px;}
+.page-navigation .nav-links { text-align:right}
+.page-navigation .nav-links .nav-next { margin-left:0; margin-right:50%;}		
+.page-navigation .nav-links .nav-previous + .nav-next { margin-left:-2px; margin-right:0;} 
+
+.body-content .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon { left:20px; right:auto}
+.body-content .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon:before { left:0; right:auto}
+.body-content .wpb_accordion .wpb_accordion_wrapper .ui-state-default .ui-icon:after { left:5px; right:auto}
+.body-content .wpb_content_element .wpb_tabs_nav li { float:right}
+.body-content .wpb_content_element .wpb_tabs_nav li:first-child a {padding-left: 13px; padding-right: 29px;}
+
+.body-content .wpb_content_element.wpb_tour .wpb_tour_tabs_wrapper .wpb_tabs_nav a {padding: 13px 0 13px 15px;}
+.body-content .wpb_tour .wpb_tour_tabs_wrapper .wpb_tab   {padding: 0 30px 0 0}
+
+.container-version-6 .cactus-single-page .container .row > .cactus-sidebar.sidebar-right { padding-right:15px}
+.container-version-6 .cactus-single-page .container .row > .cactus-sidebar.sidebar-left { padding-left:15px}
+
+.container-version-6 .off-canvas-inner .off-menu > ul li ul li { padding-left:0; padding-right:30px;}
+
+.close-project .button-close {margin-left: auto; margin-right: -15px;}
+.close-project .button-close:after {margin-right: 16px; margin-left:auto}
+
+.dropcaps { direction:ltr; text-align:right}
+.dropcaps span { float:right; display: block;}
+.dropcaps span:first-letter { display: block; float:right; margin-right:0; margin-left:15px;}
+@-moz-document url-prefix() { 
+	p .dropcaps span:first-letter {margin-top: 9px; margin-right:0; margin-left:22px;}
+}
+.flexslider_slide { direction:ltr}
+
+.single .body-content .cactus-post-break .page-link-wp .previous-post-link, .single .body-content .cactus-post-break .page-link-wp .current { margin-right:auto; margin-left:10px;}
+.single .body-content .cactus-post-break .total-post {margin-right: auto; margin-left:30px;}
+
+.top-post-share { direction:ltr}
+
+footer .footer-info .copyright { text-align:left}
+.version-6-table-left .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{margin-right:auto; margin-left:0;}
+.wpb_wrapper > ul > li:before {content: "\f104"; font-family: "FontAwesome"; position: absolute; right: 0; top: 5px; line-height: 1; display: block;}

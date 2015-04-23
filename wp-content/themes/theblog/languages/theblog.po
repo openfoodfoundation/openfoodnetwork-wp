@@ -1,0 +1,4459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: theblog-v1.1.3\n"
+"POT-Creation-Date: 2015-04-01 10:40+0700\n"
+"PO-Revision-Date: 2015-04-01 10:40+0700\n"
+"Last-Translator: \n"
+"Language-Team: CactusThemes <hi@cactusthemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: background-slider/background-slider.php:193 theblog/inc/metadata.php:113
+#: theblog/inc/theme-options.php:550
+msgid "Background Slider"
+msgstr ""
+
+#: background-slider/background-slider.php:194
+msgid "All Slides"
+msgstr ""
+
+#: background-slider/background-slider.php:195
+msgid "Background Slides"
+msgstr ""
+
+#: background-slider/background-slider.php:196
+msgid "Background Slide"
+msgstr ""
+
+#: background-slider/background-slider.php:201
+msgid "Post Type for Background Slider"
+msgstr ""
+
+#: background-slider/background-slider.php:234
+msgid "Sliders"
+msgstr ""
+
+#: background-slider/background-slider.php:235
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:236
+msgid "Slider"
+msgstr ""
+
+#: background-slider/background-slider.php:252
+#: background-slider/background-slider.php:278
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:32
+#: theblog/inc/functions-admin.php:22 theblog/inc/functions-admin.php:29
+msgid "ID"
+msgstr ""
+
+#: background-slider/background-slider.php:253
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3602
+#: c-project/includes/option-tree/includes/ot-meta-box-api.php:202
+#: c-project/includes/option-tree/includes/ot-settings-api.php:592
+#: theblog/inc/widgets/latest_comments.php:28
+#: theblog/inc/widgets/related_posts.php:34
+#: theblog/inc/widgets/social_account.php:26
+#: theblog-shortcodes/shortcodes/icon-box.php:60
+msgid "Title"
+msgstr ""
+
+#: background-slider/background-slider.php:254 theblog/inc/metadata.php:233
+#: theblog-shortcodes/shortcodes/button.php:31
+#: theblog-shortcodes/shortcodes/divider.php:29
+#: theblog-shortcodes/shortcodes/icon-box.php:40
+#: theblog-shortcodes/shortcodes/icon-box.php:76
+#: theblog-shortcodes/shortcodes/image-column.php:46
+#: theblog-shortcodes/shortcodes/text-block.php:25
+#: theblog-shortcodes/shortcodes/text-block.php:41
+msgid "Content"
+msgstr ""
+
+#: background-slider/background-slider.php:255
+msgid "Date"
+msgstr ""
+
+#: background-slider/background-slider.php:256
+#: theblog/inc/functions-admin.php:23
+msgid "Thumbnail"
+msgstr ""
+
+#: background-slider/includes/b-slider-meta-boxes.php:34
+msgid "Data"
+msgstr ""
+
+#: background-slider/includes/b-slider-meta-boxes.php:41
+msgid "Sub-heading"
+msgstr ""
+
+#: background-slider/includes/b-slider-meta-boxes.php:45
+msgid "Sub-heading for Background Slider"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/field.php:190
+msgid "+"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/field.php:207
+msgid "&#8211;"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/file-input.php:40
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:229
+msgid "Select"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/file-input.php:42
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:511
+msgid "Remove"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/post.php:66
+#: background-slider/includes/custom-meta-box/inc/fields/taxonomy.php:40
+#: background-slider/includes/custom-meta-box/inc/fields/user.php:62
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: background-slider/includes/custom-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: c-project/c-projects.php:148 c-project/c-projects.php:149
+#: c-project/c-projects.php:160
+msgid "Project"
+msgstr ""
+
+#: c-project/c-projects.php:150 c-project/c-projects.php:151
+msgid "Add New Project"
+msgstr ""
+
+#: c-project/c-projects.php:152
+msgid "Edit Project"
+msgstr ""
+
+#: c-project/c-projects.php:153
+msgid "New Project"
+msgstr ""
+
+#: c-project/c-projects.php:154
+msgid "All Project"
+msgstr ""
+
+#: c-project/c-projects.php:155
+msgid "View Project"
+msgstr ""
+
+#: c-project/c-projects.php:156
+msgid "Search Project"
+msgstr ""
+
+#: c-project/c-projects.php:157
+msgid "No Project found"
+msgstr ""
+
+#: c-project/c-projects.php:158
+msgid "No Project found in Trash"
+msgstr ""
+
+#: c-project/c-projects.php:189 c-project/c-projects.php:190
+msgid "Project Tags"
+msgstr ""
+
+#: c-project/c-projects.php:191
+msgid "Add New Tag"
+msgstr ""
+
+#: c-project/c-projects.php:192
+msgid "Search Tags"
+msgstr ""
+
+#: c-project/c-projects.php:193
+msgid "Popular Tags"
+msgstr ""
+
+#: c-project/c-projects.php:262
+msgid "Most Used"
+msgstr ""
+
+#: c-project/c-projects.php:286
+#, php-format
+msgid "+ %s"
+msgstr ""
+
+#: c-project/c-projects.php:315 theblog/inc/metadata.php:14
+#: theblog/inc/metadata.php:388
+msgid "Layout settings"
+msgstr ""
+
+#: c-project/c-projects.php:327
+msgid "Project Metadata"
+msgstr ""
+
+#: c-project/c-projects.php:352
+msgid "Layout For Single Project"
+msgstr ""
+
+#: c-project/c-projects.php:353
+msgid "Choose default layout for Single Project"
+msgstr ""
+
+#: c-project/c-projects.php:367
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:402
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:452
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:456
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:460
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:464
+#: theblog/inc/metadata.php:29 theblog/inc/metadata.php:403
+#: theblog/inc/metadata.php:458 theblog/inc/metadata.php:482
+msgid "Default"
+msgstr ""
+
+#: c-project/c-projects.php:372
+msgid "Project Slide"
+msgstr ""
+
+#: c-project/c-projects.php:377
+msgid "Project Photo"
+msgstr ""
+
+#: c-project/c-projects.php:460 theblog/inc/template-tags.php:55
+msgid "Posts navigation"
+msgstr ""
+
+#: c-project/c-projects.php:464 theblog/inc/template-tags.php:59
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: c-project/c-projects.php:468 theblog/inc/template-tags.php:63
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:50
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:51
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:157
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:181
+#: c-project/includes/option-tree/includes/ot-functions.php:210
+msgid "Theme Options"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:56
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:113
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:208
+msgid "Theme Options updated."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:57
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:114
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:209
+msgid "Theme Options reset."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:58
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:94
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:96
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:97
+msgid "OptionTree"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:107
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:108
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:151
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:175
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:49
+msgid "Settings"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:115
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:210
+msgid "Save Settings"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:121
+msgid "Theme Options UI"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:125
+msgid "Import"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:129
+msgid "Export"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:133
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:163
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:187
+msgid "Layouts"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:139
+msgid "Theme Options UI Builder"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:145
+msgid "Settings XML"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:169
+msgid "Settings PHP File"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:193
+msgid "Layout Management"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:202
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:203
+msgid "Documentation"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:216
+msgid "Creating Options"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:220
+#: theblog/inc/theme-options.php:35
+msgid "Option Types"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:224
+msgid "Function References"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:228
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:270
+msgid "Theme Mode"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:232
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:276
+msgid "Meta Boxes"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:236
+msgid "Code Examples"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:240
+msgid "Layouts Overview"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:246
+msgid "Overview of available Theme Option fields."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:252
+msgid "Option types in alphabetical order & hooks to filter them."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:258
+msgid "Function Reference:ot_get_option()"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:264
+msgid "Function Reference:get_option_tree()"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:282
+msgid "Code examples for front-end development."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:288
+msgid "What's a layout anyhow?"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:476
+msgid "The Colorpicker only allows valid hexadecimal values."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:567
+msgid "Send to OptionTree"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:568
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:239
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:2107
+msgid "Remove Media"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:569
+msgid "Are you sure you want to reset back to the defaults?"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:570
+msgid "You can't remove this! But you can edit the values."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:571
+msgid "Are you sure you want to remove this?"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:572
+msgid "Are you sure you want to activate this layout?"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:573
+msgid "Sorry, you can't have settings three levels deep."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:574
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:684
+msgid "Delete Gallery"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:575
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:685
+msgid "Edit Gallery"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:576
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:692
+msgid "Create Gallery"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:577
+msgid "Are you sure you want to delete this Gallery?"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:623
+msgid "Option Tree"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:759
+msgid "General"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:765
+msgid "Sample Text Field Label"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:766
+msgid "Description for the sample text field."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:1972
+msgid "Settings updated."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:1976
+msgid "Settings could not be saved."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:1984
+msgid "Settings Imported."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:1988
+msgid "Settings could not be imported."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:1995
+msgid "Data Imported."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:1999
+msgid "Data could not be imported."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2007
+msgid "Layouts Imported."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2011
+msgid "Layouts could not be imported."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2019
+msgid "Layouts Updated."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2023
+msgid "Layouts could not be updated."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2027
+msgid "Layouts have been deleted."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2033
+msgid "Layout activated."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2597
+msgid "Left Sidebar"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2602
+msgid "Right Sidebar"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2607
+msgid "Full Width (no sidebar)"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2612
+msgid "Dual Sidebar"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2617
+msgid "Left Dual Sidebar"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2622
+msgid "Right Dual Sidebar"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2652
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2713
+msgid "Image"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2663
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2719
+msgid "Link"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2674
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:2725
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:43
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:386
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:436
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:493
+msgid "Description"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3208
+msgid "edit"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3209
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3277
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3278
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3440
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3441
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3506
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3507
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3634
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3635
+#: theblog/inc/core/cactus-core.php:296
+msgid "Edit"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3211
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3212
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3280
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3281
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3443
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3444
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3509
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3510
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3568
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3569
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3637
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3638
+msgid "Delete"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3218
+msgid ""
+"<strong>Section Title</strong>: Displayed as a menu item on the Theme "
+"Options page."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3226
+msgid ""
+"<strong>Section ID</strong>: A unique lower case alphanumeric string, "
+"underscores allowed."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3287
+msgid ""
+"<strong>Label</strong>: Displayed as the label of a form element on the "
+"Theme Options page."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3295
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3524
+msgid ""
+"<strong>ID</strong>: A unique lower case alphanumeric string, underscores "
+"allowed."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3303
+msgid ""
+"<strong>Type</strong>: Choose one of the available option types from the "
+"dropdown."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3314
+msgid ""
+"<strong>Description</strong>: Enter a detailed description for the users to "
+"read on the Theme Options page, HTML is allowed. This is also where you "
+"enter content for both the Textblock & Textblock Titled option types."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3322
+msgid ""
+"<strong>Choices</strong>: This will only affect the following option types: "
+"Checkbox, Radio, Select & Select Image."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3327
+msgid "Add Choice"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3333
+msgid ""
+"<strong>Settings</strong>: This will only affect the List Item option type."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3338
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:93
+msgid "Add Setting"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3344
+msgid ""
+"<strong>Standard</strong>: Setting the standard value for your option only "
+"works for some option types. Read the <code>OptionTree->Documentation</code> "
+"for more information on which ones."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3352
+msgid ""
+"<strong>Rows</strong>: Enter a numeric value for the number of rows in your "
+"textarea. This will only affect the following option types: CSS, Textarea, & "
+"Textarea Simple."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3360
+msgid ""
+"<strong>Post Type</strong>: Add a comma separated list of post type like "
+"'post,page'. This will only affect the following option types: Custom Post "
+"Type Checkbox, & Custom Post Type Select."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3368
+msgid ""
+"<strong>Taxonomy</strong>: Add a comma separated list of any registered "
+"taxonomy like 'category,post_tag'. This will only affect the following "
+"option types: Taxonomy Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3376
+msgid ""
+"<strong>Min, Max, & Step</strong>: Add a comma separated list of options in "
+"the following format <code>0,100,1</code> (slide from <code>0-100</code> in "
+"intervals of <code>1</code>). The three values represent the minimum, "
+"maximum, and step options and will only affect the Numeric Slider option "
+"type."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3384
+msgid "<strong>CSS Class</strong>: Add and optional class to this option type."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3392
+msgid ""
+"<strong>Condition</strong>: Add a comma separated list of conditions where "
+"this field will be visible, leave empty to always show the field. Conditions "
+"can be in the form of <code>field_name:is(value)</code>, <code>field_name:not"
+"(value)</code>, <code>field_name:contains(value)</code>, <code>field_name:"
+"less_than(value)</code>, <code>field_name:less_than_or_equal_to(value)</"
+"code>, <code>field_name:greater_than(value)</code>, or <code>field_name:"
+"greater_than_or_equal_to(value)</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3400
+msgid ""
+"<strong>Condition Operator</strong>: Choose the logical operator to compute "
+"the result of the conditions."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3403
+msgid "and"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3404
+msgid "or"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3450
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:29
+msgid "Label"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3460
+msgid "Value"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3470
+msgid "Image Source (Radio Image only)"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3516
+msgid ""
+"<strong>Title</strong>: Displayed as a contextual help menu item on the "
+"Theme Options page."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3532
+msgid ""
+"<strong>Content</strong>: Enter the HTML content about this contextual help "
+"item displayed on the Theme Option page for end users to read."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3563
+msgid "Layout"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3565
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3566
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1309
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1396
+msgid "Activate"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-admin.php:3790
+msgid "New Layout"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:30
+msgid ""
+"The Label field should be a short but descriptive block of text 100 "
+"characters or less with no HTML."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:33
+msgid ""
+"The ID field is a unique alphanumeric key used to differentiate each theme "
+"option (underscores are acceptable). Also, the plugin will change all text "
+"you write in this field to lowercase and replace spaces and special "
+"characters with an underscore automatically."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:35
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1376
+msgid "Type"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:36
+msgid ""
+"You are required to choose one of the supported option types when creating a "
+"new option. Here is a list of the available option types. For more "
+"information about each type click the <code>Option Types</code> tab to the "
+"left."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:44
+msgid ""
+"Enter a detailed description for the users to read on the Theme Options "
+"page, HTML is allowed. This is also where you enter content for both the "
+"Textblock & Textblock Titled option types."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:46
+msgid "Choices"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:47
+msgid ""
+"Click the \"Add Choice\" button to add an item to the choices array. This "
+"will only affect the following option types: Checkbox, Radio, Select & "
+"Select Image."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:50
+msgid ""
+"Click the \"Add Setting\" button found inside a newly created setting to add "
+"an item to the settings array. This will only affect the List Item type."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:52
+#: theblog/inc/metadata.php:76
+msgid "Standard"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:53
+msgid ""
+"Setting the standard value for your option only works for some option types. "
+"Those types are one that have a single string value saved to them and not an "
+"array of values."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:55
+msgid "Rows"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:56
+msgid ""
+"Enter a numeric value for the number of rows in your textarea. This will "
+"only affect the following option types: CSS, Textarea, & Textarea Simple."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:58
+msgid "Post Type"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:59
+msgid ""
+"Add a comma separated list of post type like <code>post,page</code>. This "
+"will only affect the following option types: Custom Post Type Checkbox, & "
+"Custom Post Type Select. Below are the default post types available with "
+"WordPress and that are also compatible with OptionTree. You can also add "
+"your own custom <code>post_type</code>. At this time <code>any</code> does "
+"not seem to return results properly and is something I plan on looking into."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:67
+msgid "Taxonomy"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:68
+msgid ""
+"Add a comma separated list of any registered taxonomy like <code>category,"
+"post_tag</code>. This will only affect the following option types: Taxonomy "
+"Checkbox, & Taxonomy Select."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:70
+msgid "Min, Max, & Step"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:71
+msgid ""
+"Add a comma separated list of options in the following format <code>0,100,1</"
+"code> (slide from <code>0-100</code> in intervals of <code>1</code>). The "
+"three values represent the minimum, maximum, and step options and will only "
+"affect the Numeric Slider option type."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:73
+#: theblog-shortcodes/shortcodes/compare-table.php:146
+#: theblog-shortcodes/shortcodes/compare-table.php:213
+msgid "CSS Class"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:74
+msgid "Add and optional class to any option type."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:104
+msgid "Background"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:105
+msgid ""
+"The Background option type is for adding background styles to your theme "
+"either dynamically via the CSS option type below or manually with "
+"<code>ot_get_option()</code>. Background has filters that allow you to "
+"change the defaults. For example, you can filter on "
+"<code>ot_recognized_background_repeat</code>, "
+"<code>ot_recognized_background_attachment</code>, and "
+"<code>ot_recognized_background_position</code>. These filters allow you to "
+"fine tune the select lists for your specific CSS needs."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:107
+msgid "Category Select"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:108
+msgid ""
+"The Category Select option type displays a list of category IDs. It allows "
+"the user to select only one category ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:110
+msgid "Category Checkbox"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:111
+msgid ""
+"The Category Checkbox option type displays a list of category IDs. It allows "
+"the user to check multiple category IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:113
+msgid "Checkbox"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:114
+msgid ""
+"The Checkbox option type is fairly self explanatory. Typically used to ask "
+"questions. For example, \"Do you want to activate asynchronous Google "
+"analytics?\" would be a single checkbox with a value of yes. You could have "
+"more complex usages but the idea is that you can easily grab the value of "
+"the checkbox and use it in you theme. In this situation you would test if "
+"the checkbox has a value and execute a block of code if it does and do "
+"nothing if it doesn't."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:116
+msgid "Colorpicker"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:117
+msgid ""
+"The Colorpicker option type saves a hexadecimal color code for use in CSS. "
+"Use it to modify the color of something in your theme."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:119
+msgid "CSS"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:120
+msgid ""
+"The CSS option type is a textarea that when used properly can add dynamic "
+"CSS to your theme from within OptionTree. Unfortunately, due server "
+"limitations you will need to create a file named <code>dynamic.css</code> at "
+"the root level of your theme and change permissions using chmod so the "
+"server can write to the file. I have had the most success setting this "
+"single file to 0777 but feel free to play around with permissions until "
+"everything is working. A good starting point is 0666. When the server can "
+"save to the file CSS will automatically be updated each time you save your "
+"theme options."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:122
+msgid ""
+"An example of the CSS option type: This assumes you have an option with the "
+"ID of <code>custom_background_css</code> which will display the saved values "
+"for that option."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:124
+msgid "Input"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:130
+msgid "Output"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:138
+msgid "Custom Post Type Select"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:139
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It will return a single "
+"post ID for use in a custom function or loop. Requires at least one valid "
+"<code>post_type</code> when created in the settings. For some reason "
+"<code>any</code> does not work correctly and will looked into in future "
+"version."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:141
+msgid "Custom Post Type Checkbox"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:142
+msgid ""
+"The Custom Post Type Select option type displays a list of IDs from any "
+"available WordPress post type or custom post type. It allows the user to "
+"check multiple post IDs for use in a custom function or loop. Requires at "
+"least one valid <code>post_type</code> when created in the settings. For "
+"some reason <code>any</code> does not work correctly and will looked into in "
+"future version."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:144
+msgid "Gallery"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:145
+msgid ""
+"The Gallery option type saves a comma separated list of image attachment "
+"IDs. You will need to create a front-end function to display the images in "
+"your theme."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:147
+msgid "List Item"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:148
+msgid ""
+"The list Item replaced the old Slider option type. It allows for a great "
+"deal of customization. You can add settings to the List Item and those "
+"settings will be displayed to the user when they add a new List Item. "
+"Typical use is for creating sliding content or blocks of code for custom "
+"layouts."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:150
+msgid "Measurement"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:151
+msgid ""
+"The Measurement option type is a mix of input and select fields. The text "
+"input excepts a value and the select lets you choose the unit of measurement "
+"to add to that value. Currently the default units are <code>px</code>, <code>"
+"%</code>, <code>em</code>, <code>pt</code>. However, you can change them "
+"with the <code>ot_measurement_unit_types</code> filter."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:153
+msgid ""
+"Example filter to add new units to the Measurement option type. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:166
+msgid ""
+"Example filter to completely change the units in the Measurement option "
+"type. Added to <code>functions.php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:181
+msgid "Numeric Slider"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:182
+msgid ""
+"The Numeric Slider option type displays a jQuery UI slider. It will return a "
+"single numerical value for use in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:184
+msgid "On/Off"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:185
+msgid ""
+"The On/Off option type displays a simple switch that can be used to turn "
+"things on or off. The saved return value is either on or off."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:187
+msgid "Page Select"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:188
+msgid ""
+"The Page Select option type displays a list of page IDs. It will return a "
+"single page ID for use in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:190
+msgid "Page Checkbox"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:191
+msgid ""
+"The Page Select option type displays a list of page IDs. It allows the user "
+"to check multiple page IDs for use in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:193
+msgid "Post Select"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:194
+msgid ""
+"The Post Select option type displays a list of post IDs. It will return a "
+"single post ID for use in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:196
+msgid "Post Checkbox"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:197
+msgid ""
+"The Post Select option type displays a list of post IDs. It allows the user "
+"to check multiple post IDs for use in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:199
+msgid "Radio"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:200
+msgid ""
+"The Radio option type could ask a question. For example, \"Do you want to "
+"activate the custom navigation?\" could require a yes or no answer with a "
+"radio option. In this situation you would test if the radio has a value of "
+"'yes' and execute a block of code, or if it's 'no' execute a different block "
+"of code."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:202
+msgid "Radio Image"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:203
+msgid ""
+"the Radio Images option type is primarily used for layouts. However, you can "
+"filter the image list using <code>ot_radio_images</code>. As well, you can "
+"add your own custom images using the choices array."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:205
+msgid ""
+"This example executes the <code>ot_radio_images</code> filter on layout "
+"images attached to the <code>my_radio_images</code> field. Added to "
+"<code>functions.php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:230
+msgid ""
+"The Select option type is used to list anything you want that would be "
+"chosen from a select list."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:232
+msgid "Sidebar Select"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:233
+msgid ""
+"This option type makes it possible for users to select a WordPress "
+"registered sidebar to use on a specific area. By using the two provided "
+"filters, <code>ot_recognized_sidebars</code>, and "
+"<code>ot_recognized_sidebars_{$field_id}</code> we can be selective about "
+"which sidebars are available on a specific content area."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:234
+msgid ""
+"For example, if we create a WordPress theme that provides the ability to "
+"change the Blog Sidebar and we don't want to have the footer sidebars "
+"available on this area, we can unset those sidebars either manually or by "
+"using a regular expression if we have a common name like <code>footer-"
+"sidebar-$i</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:237
+msgid ""
+"The Slider option type is technically deprecated. Use the List Item option "
+"type instead, as it's infinitely more customizable. Typical use is for "
+"creating sliding image content."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:239
+msgid "Tag Checkbox"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:240
+msgid ""
+"The Tag Checkbox option type displays a list of tag IDs. It allows the user "
+"to check multiple tag IDs and will return that value as an array for use in "
+"a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:242
+msgid "Tag Select"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:243
+msgid ""
+"The Tag Select option type displays a list of tag IDs. It allows the user to "
+"select only one tag ID and will return that value for use in a custom "
+"function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:245
+msgid "Taxonomy Checkbox"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:246
+msgid ""
+"The Taxonomy Checkbox option type displays a list of taxonomy IDs. It allows "
+"the user to check multiple taxonomy IDs and will return that value as an "
+"array for use in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:248
+msgid "Taxonomy Select"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:249
+msgid ""
+"The Taxonomy Select option type displays a list of taxonomy IDs. It allows "
+"the user to select only one taxonomy ID and will return that value for use "
+"in a custom function or loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:251
+msgid "Text (Input)"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:252
+msgid ""
+"The Text option type would be used to save a string value. For example, a "
+"link to feedburner, your Twitter username, or Google Analytics ID are all "
+"good candidates. Any optional or required text that is of reasonably short "
+"character length."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:254
+msgid "Textarea"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:255
+msgid ""
+"The Textarea option type is a large string value used for custom code or "
+"text in the theme. The new Textarea has a WYSIWYG editor that can be "
+"filtered to change the buttons shown. For example, you can filter on "
+"<code>wpautop</code>, <code>media_buttons</code>, <code>tinymce</code>, and "
+"<code>quicktags</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:257
+msgid ""
+"Example filters to alter the Textarea option type. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:259
+msgid ""
+"This example keeps WordPress from executing the <code>wpautop</code> filter "
+"on the line breaks. The default is <code>true</code> which means it wraps "
+"line breaks with an HTML <code>p</code> tag."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:272
+msgid ""
+"This example keeps WordPress from executing the <code>media_buttons</code> "
+"filter on the textarea WYSIWYG. The default is <code>true</code> which means "
+"show the buttons."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:285
+msgid ""
+"This example keeps WordPress from executing the <code>tinymce</code> filter "
+"on the textarea WYSIWYG. The default is <code>true</code> which means show "
+"the tinymce."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:298
+msgid ""
+"This example alters the <code>quicktags</code> filter on the textarea "
+"WYSIWYG. The default is <code>array( 'buttons' => 'strong,em,link,block,del,"
+"ins,img,ul,ol,li,code,spell,close' )</code> which means show those "
+"quicktags. It also means you can filter in your own custom quicktags."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:313
+msgid "Textarea Simple"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:314
+msgid ""
+"The Textarea Simple option type is a large string value used for custom code "
+"or text in the theme. The new Textarea Simple does not have a WYSIWYG "
+"editor. But you can still filter on <code>wpautop</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:316
+msgid ""
+"This example tells WordPress to execute the <code>wpautop</code> filter on "
+"the line breaks. The default is <code>false</code> which means it does not "
+"wraps line breaks with an HTML <code>p</code> tag. Added to <code>functions."
+"php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:329
+msgid "Textblock"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:330
+msgid ""
+"The Textblock option type is used only on the Theme Option page. It will "
+"allow you to create & display HTML on your Theme Options page but has no "
+"title above the text block. You can then use the Textblock to add a more "
+"detailed set of instruction on how the options are used in your theme. You "
+"would NEVER use this in your themes template files as it does not save a "
+"value."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:332
+msgid "Textblock Titled"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:333
+msgid ""
+"The Textblock Titled option type is used only on the Theme Option page. It "
+"will allow you to create & display HTML on your Theme Options page and has a "
+"title above the text block. You can then use the Textblock Titled to add a "
+"more detailed set of instruction on how the options are used in your theme. "
+"You would NEVER use this in your themes template files as it does not save a "
+"value."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:335
+msgid "Typography"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:336
+msgid ""
+"The Typography option type is for adding typographic styles to your theme "
+"either dynamically via the CSS option type below or manually with "
+"<code>ot_get_option()</code>. Typography has filters that allow you to "
+"change the defaults. For example, you can filter on "
+"<code>ot_recognized_font_styles</code>, <code>ot_recognized_font_weights</"
+"code>, <code>ot_recognized_font_variants</code>, and "
+"<code>ot_recognized_font_families</code>. These filters allow you to fine "
+"tune the select lists for your specific CSS needs. The most important one "
+"though is <code>ot_recognized_font_families</code> as you can add your "
+"Google Fonts to create custom font stacks."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:338
+msgid ""
+"This example would filter <code>ot_recognized_font_families</code> to build "
+"your own font stack. Added to <code>functions.php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:355
+msgid "Upload"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:356
+msgid ""
+"The Upload option type is used to upload any WordPress supported media. "
+"After uploading, users are required to press the \"Send to OptionTree\" "
+"button in order to populate the input with the URI of that media. There is "
+"one caveat of this feature. If you import the theme options and have "
+"uploaded media on one site the old URI will not reflect the URI of your new "
+"site. You'll have to re-upload or FTP any media to your new server and "
+"change the URIs if necessary."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:388
+msgid ""
+"This function returns a value from the \"option_tree\" array of saved values "
+"or the default value supplied. The returned value would be mixed. Meaning it "
+"could be a string, integer, boolean, or array."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:390
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:440
+msgid "Usage"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:394
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:444
+msgid "Parameters"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:398
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:402
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:448
+msgid "string"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:398
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:448
+msgid "required"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:398
+msgid "Enter the options unique identifier."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:398
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:448
+msgid "Default:"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:398
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:402
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:448
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:452
+msgid "None"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:402
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:452
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:456
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:460
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:464
+msgid "optional"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:402
+msgid ""
+"Enter a default return value. This is just incase the request returns null."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:432
+msgid ""
+"This function has been deprecated. That means it has been replaced by a new "
+"function or is no longer supported, and may be removed from future versions. "
+"All code that uses this function should be converted to use its replacement."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:434
+msgid "Use"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:434
+msgid "instead"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:438
+msgid ""
+"This function returns, or echos if asked, a value from the \"option_tree\" "
+"array of saved values."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:448
+msgid "Enter a unique Option Key to get a returned value or array."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:452
+msgid "array"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:452
+msgid "Used to cut down on database queries in template files."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:456
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:460
+msgid "boolean"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:456
+msgid "Echo the output."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:460
+msgid "Used to indicate the $item_id is an array of values."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:464
+msgid "integer"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:464
+msgid ""
+"Numeric offset key for the $item_id array, -1 will return all values (an "
+"array starts at 0)."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:492
+msgid ""
+"If you're using the plugin version of OptionTree it is highly recommended to "
+"include a <code>function_exists</code> check in your code, as described in "
+"the examples below. If you've integrated OptionTree directly into your "
+"themes root directory, you will <strong>not</strong> need to wrap your code "
+"with <code>function_exists</code>, as you're guaranteed to have the "
+"<code>ot_get_option()</code> function available."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:494
+msgid "String Examples"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:496
+msgid "Returns the value of <code>test_input</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:502
+msgid ""
+"Returns the value of <code>test_input</code>, but also has a default value "
+"if it returns empty."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:508
+msgid "Array Examples"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:510
+msgid ""
+"Assigns the value of <code>navigation_ids</code> to the variable <code>$ids</"
+"code>. It then echos an unordered list of links (navigation) using "
+"<code>wp_list_pages()</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:530
+msgid ""
+"The next two examples demonstrate how to use the <strong>Measurement</"
+"strong> option type. The Measurement option type is an array with two key/"
+"value pairs. The first is the value of measurement and the second is the "
+"unit of measurement."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:556
+msgid "This example displays a very basic slider loop."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:601
+msgid "It's Super Simple"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:603
+msgid ""
+"Layouts make your theme awesome! With theme options data that you can save/"
+"import/export you can package themes with different color variations, or "
+"make it easy to do A/B testing on text and so much more. Basically, you save "
+"a snapshot of your data as a layout."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:605
+msgid ""
+"Once you have created all your different layouts, or theme variations, you "
+"can save them to a separate text file for repackaging with your theme. "
+"Alternatively, you could just make different variations for yourself and "
+"change your theme with the click of a button, all without deleting your "
+"previous options data."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:607
+msgid ""
+" Adding a layout is ridiculously easy, follow these steps and you'll be on "
+"your way to having a WordPress super theme."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:609
+msgid "For Developers"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:612
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:642
+msgid "Creating a Layout"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:614
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:621
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:627
+msgid "Go to the <code>OptionTre->Settings->Layouts</code> tab."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:615
+msgid ""
+"Enter a name for your layout in the text field and hit \"Save Layouts\", "
+"you've created your first layout."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:616
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:646
+msgid "Adding a new layout is as easy as repeating the steps above."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:619
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:649
+msgid "Activating a Layout"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:622
+msgid "Click on the activate layout button in the actions list."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:625
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:655
+msgid "Deleting a Layout"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:628
+msgid "Click on the delete layout button in the actions list."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:631
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:660
+msgid "Edit Layout Data"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:633
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:644
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:651
+msgid "Go to the <code>Appearance->Theme Options</code> page."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:634
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:663
+msgid ""
+"Modify and save your theme options and the layout will be updated "
+"automatically."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:635
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:664
+msgid ""
+"Saving theme options data will update the currently active layout, so before "
+"you start saving make sure you want to modify the current layout."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:636
+msgid ""
+"If you want to edit a new layout, first create it then save your theme "
+"options."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:639
+msgid "End-Users Mode"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:645
+msgid ""
+"Enter a name for your layout in the text field and hit \"New Layout\", "
+"you've created your first layout."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:652
+msgid ""
+"Choose a layout from the select list and click the \"Activate Layout\" "
+"button."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:657
+msgid "End-Users mode does not allow deleting layouts."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:662
+msgid "Go to the <code>Appearance->Theme Options</code> tab."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:693
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:775
+msgid "How-to-guide"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:695
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree's "
+"built in Meta Box API. In the code below I'll show you a basic demo of how "
+"to create your very own custom meta box using any number of the option types "
+"you have at your disposal. If you would like to see some demo code, there is "
+"a directory named <code>theme-mode</code> inside the <code>assets</code> "
+"directory that contains a file named <code>demo-meta-boxes.php</code> you "
+"can reference."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:697
+msgid ""
+"It's important to note that Meta Boxes do not support WYSIWYG editors at "
+"this time and if you set one of your options to Textarea it will "
+"automatically revert to a Textarea Simple until a valid solution is found. "
+"WordPress released this statement regarding the wp_editor() function:"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:699
+msgid ""
+"Once instantiated, the WYSIWYG editor cannot be moved around in the DOM. "
+"What this means in practical terms, is that you cannot put it in meta-boxes "
+"that can be dragged and placed elsewhere on the page."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:701
+msgid "Create and include your custom meta boxes file."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:703
+msgid ""
+"Create a file and name it anything you want, maybe <code>meta-boxes.php</"
+"code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:704
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>meta-boxes.php</code> into which will help keep you "
+"file structure nice and tidy."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:705
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:816
+msgid "Add the following code to your <code>functions.php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:715
+msgid ""
+"Add a variation of the following code to your <code>meta-boxes.php</code>. "
+"You'll obviously need to fill it in with all your custom array values. It's "
+"important to note here that we use the <code>admin_init</code> filter "
+"because if you were to call the <code>ot_register_meta_box</code> function "
+"before OptionTree was loaded the sky would fall on your head."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:777
+msgid ""
+"There are a few simple steps you need to take in order to use OptionTree as "
+"a theme included module. In the code below I'll show you a basic demo of how "
+"to include the entire plugin as a module, which will allow you to have the "
+"most up-to-date version of OptionTree without ever needing to hack the core "
+"of the plugin. If you would like to see some demo code, there is a directory "
+"named <code>theme-mode</code> inside the <code>assets</code> directory that "
+"contains a file named <code>demo-theme-options.php</code> you can reference."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:779
+msgid "Step 1: Include the plugin & turn on theme mode."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:781
+msgid ""
+"Download the latest version of <a href=\"http://wordpress.org/extend/plugins/"
+"option-tree/\" rel=\"nofollow\" target=\"_blank\">OptionTree</a>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:782
+msgid "Unpack the ZIP archive."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:783
+msgid ""
+"Put the <code>option-tree</code> directory in the root of your theme. For "
+"example, the server path would be <code>/wp-content/themes/theme-name/option-"
+"tree/</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:784
+msgid ""
+"Add the following code to the beginning of your <code>functions.php</code>."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:810
+msgid ""
+"It's that simple! You now have OptionTree built into your theme and anytime "
+"there's an update to the plugin you just replace the old version and you're "
+"good to go.."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:812
+msgid "Step 2: Create Theme Options without using the UI Builder."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:814
+msgid ""
+"Create a file and name it anything you want, maybe <code>theme-options.php</"
+"code>, or use the built in file export to create it for you. Remember, you "
+"should always check the file for errors before including it in your theme."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:815
+msgid ""
+"As well, you'll probably want to create a directory named <code>includes</"
+"code> to put your <code>theme-options.php</code> into which will help keep "
+"you file structure nice and tidy."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:826
+msgid ""
+"Add a variation of the following code to your <code>theme-options.php</"
+"code>. You'll obviously need to fill it in with all your custom array values "
+"for contextual help (optional), sections (required), and settings (required)."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-docs-page.php:829
+msgid ""
+"The code below is a boilerplate to get your started. For a full list of the "
+"available option types click the \"Option Types\" tab above. Also a quick "
+"note, you don't need to put OptionTree in theme mode to manually create "
+"options but you will want to hide the docs and settings as each time you "
+"load the admin area the settings be written over with the code below if "
+"they've changed in any way. However, this ensures your settings do not get "
+"tampered with by the end-user."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:46
+msgid "Sorry, this function does not exist"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:120
+#: theblog/functions.php:803 theblog/inc/category-metadata.php:68
+msgid "background-repeat"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:138
+#: theblog/functions.php:822 theblog/inc/category-metadata.php:85
+msgid "background-attachment"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:157
+#: theblog/functions.php:839 theblog/inc/category-metadata.php:100
+msgid "background-position"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:210
+msgid "background-size"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:227
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:2095
+msgid "Add Media"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:297
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:351
+msgid "No Categories Found"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:346
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:604
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1039
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1222
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1553
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1668
+msgid "Choose One"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:552
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:610
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1173
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1228
+msgid "No Posts Found"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:764
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1117
+msgid "Add New"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:767
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1120
+msgid "You can re-order with drag & drop, the order will update after saving."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:918
+msgid "On"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:922
+msgid "Off"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:990
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1045
+msgid "No Pages Found"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1444
+msgid "Choose Sidebar"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1449
+msgid "No Sidebars"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1504
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1558
+msgid "No Tags Found"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1616
+#: c-project/includes/option-tree/includes/ot-functions-option-types.php:1673
+msgid "No Taxonomies Found"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:35
+msgid "Warning!"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:36
+#, php-format
+msgid ""
+"Go to the %s page if you want to save data, this page is for adding settings."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:37
+#, php-format
+msgid ""
+"If you're unsure or not completely positive that you should be editing these "
+"settings, you should read the %s first."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:38
+msgid ""
+"Things could break or be improperly displayed to the end-user if you do one "
+"of the following:"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:39
+msgid ""
+"Give two sections the same ID, give two settings the same ID, give two "
+"contextual help content areas the same ID, don't create any settings, or "
+"have a section at the end of the settings list."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:40
+msgid ""
+"You can create as many settings as your project requires and use them how "
+"you see fit. When you add a setting here, it will be available on the Theme "
+"Options page for use in your theme. To separate your settings into sections, "
+"click the \"Add Section\" button, fill in the input fields, and a new "
+"navigation menu item will be created."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:41
+msgid ""
+"All of the settings can be sorted and rearranged to your liking with Drag & "
+"Drop. Don't worry about the order in which you create your settings, you can "
+"always reorder them."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:92
+msgid "Add Section"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:99
+msgid "Contextual Help"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:103
+msgid "Contextual Help Sidebar"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:103
+msgid ""
+"If you decide to add contextual help to the Theme Option page, enter the "
+"optional \"Sidebar\" HTML here. This would be an extremely useful place to "
+"add links to your themes documentation or support forum. Only after you've "
+"added some content below will this display to the user."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:132
+msgid "Add Contextual Help Content"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:168
+msgid ""
+"This import method has been deprecated. That means it has been replaced by a "
+"new method and is no longer supported, and may be removed from future "
+"versions. All themes that use this import method should be converted to use "
+"its replacement below."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:170
+msgid ""
+"If you were given a Theme Options XML file with a premium or free theme, "
+"locate it on your hard drive and upload that file by clicking the blue "
+"upload button. A popup window will appear, upload the XML file and click "
+"\"Send to OptionTree\". The file URL should be in the upload input, if it is "
+"click \"Import XML\"."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:173
+msgid "Import XML"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:189
+msgid "Add XML"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:226
+msgid ""
+"To import your Settings copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Settings"
+"\" button."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:229
+msgid "Import Settings"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:271
+msgid ""
+"Only after you've imported the Settings should you try and update your Theme "
+"Options."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:273
+msgid ""
+"To import your Theme Options copy and paste what appears to be a random "
+"string of alpha numeric characters into this textarea and press the \"Import "
+"Theme Options\" button."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:276
+msgid "Import Theme Options"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:318
+msgid ""
+"Only after you've imported the Settings should you try and update your "
+"Layouts."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:320
+msgid ""
+"To import your Layouts copy and paste what appears to be a random string of "
+"alpha numeric characters into this textarea and press the \"Import Layouts\" "
+"button. Keep in mind that when you import your layouts, the active layout's "
+"saved data will write over the current data set for your Theme Options."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:323
+msgid "Import Layouts"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:366
+#, php-format
+msgid ""
+"Export your Settings into a fully functional <code>theme-options.php</code> "
+"file by clicking this button. For more information on how to use this file "
+"read the theme mode %s. Remember, you should always check the file for "
+"errors before including it in your theme."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:373
+msgid "Export Settings File"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:403
+msgid ""
+"Export your Settings by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Settings</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:439
+msgid ""
+"Export your Theme Options data by highlighting this text and doing a copy/"
+"paste into a blank .txt file. Then save the file for importing into another "
+"install of WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Theme Options</strong> "
+"textarea on another web site."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:475
+msgid ""
+"Export your Layouts by highlighting this text and doing a copy/paste into a "
+"blank .txt file. Then save the file for importing into another install of "
+"WordPress later. Alternatively, you could just paste it into the "
+"<code>OptionTree->Settings->Import</code> <strong>Layouts</strong> textarea "
+"on another web site."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:517
+msgid ""
+"To add a new layout enter a unique lower case alphanumeric string (dashes "
+"allowed) in the text field and click \"Save Layouts\"."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:518
+msgid ""
+"As well, you can activate, remove, and drag & drop the order; all situations "
+"require you to click \"Save Layouts\" for the changes to be applied."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:519
+msgid ""
+"When you create a new layout it will become active and any changes made to "
+"the Theme Options will be applied to it. If you switch back to a different "
+"layout immediately after creating a new layout that new layout will have a "
+"snapshot of the current Theme Options data attached to it."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:520
+msgid ""
+"Visit <code>OptionTree->Documentation->Layouts Overview</code> to see a more "
+"in-depth description of what layouts are and how to use them."
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-functions-settings-page.php:557
+msgid "Save Layouts"
+msgstr ""
+
+#: c-project/includes/option-tree/includes/ot-settings-api.php:353
+msgid "Reset Options"
+msgstr ""
+
+#: c-project/includes/options-page/classes/elements/op_option_category.php:17
+msgid "All Categories"
+msgstr ""
+
+#: c-project/includes/options-page/classes/elements/op_option_media.php:16
+msgid "Upload Media"
+msgstr ""
+
+#: c-project/templates/single.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: c-project/templates/single.php:26
+msgid "Pages:"
+msgstr ""
+
+#: theblog/404.php:19
+msgid "GO TO HOMEPAGE"
+msgstr ""
+
+#: theblog/comments.php:30
+msgid "Comments"
+msgstr ""
+
+#: theblog/comments.php:36 theblog/comments.php:55
+msgid "Comment navigation"
+msgstr ""
+
+#: theblog/comments.php:37 theblog/comments.php:56
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: theblog/comments.php:38 theblog/comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: theblog/comments.php:67
+msgid "Comments are closed."
+msgstr ""
+
+#: theblog/functions.php:97
+msgid "Primary Menu"
+msgstr ""
+
+#: theblog/functions.php:99
+msgid "Secondary Menu"
+msgstr ""
+
+#: theblog/functions.php:100
+msgid "Footer Menu"
+msgstr ""
+
+#: theblog/functions.php:130
+msgid "Main Sidebar "
+msgstr ""
+
+#: theblog/functions.php:132
+msgid "Applied for all pages"
+msgstr ""
+
+#: theblog/functions.php:139
+msgid "Main Top Sidebar"
+msgstr ""
+
+#: theblog/functions.php:148
+msgid "Main Bottom Sidebar"
+msgstr ""
+
+#: theblog/functions.php:150
+msgid "Used in Front Page templates only"
+msgstr ""
+
+#: theblog/functions.php:158
+msgid "Footer Sidebar"
+msgstr ""
+
+#: theblog/functions.php:510 theblog/functions.php:697
+#: theblog/header-author.php:54 theblog/html/single/content-gallery.php:468
+#: theblog/html/single/single-about-author.php:36
+msgid "Facebook"
+msgstr ""
+
+#: theblog/functions.php:511
+msgid "Share on Facebook"
+msgstr ""
+
+#: theblog/functions.php:518 theblog/functions.php:690
+#: theblog/header-author.php:57 theblog/html/single/content-gallery.php:471
+#: theblog/html/single/single-about-author.php:39
+msgid "Twitter"
+msgstr ""
+
+#: theblog/functions.php:519
+msgid "Share on Twitter"
+msgstr ""
+
+#: theblog/functions.php:526
+msgid "LinkedIn"
+msgstr ""
+
+#: theblog/functions.php:527
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: theblog/functions.php:534
+msgid "Tumblr"
+msgstr ""
+
+#: theblog/functions.php:535
+msgid "Share on Tumblr"
+msgstr ""
+
+#: theblog/functions.php:542
+msgid "Google +"
+msgstr ""
+
+#: theblog/functions.php:543
+msgid "Share on Google Plus"
+msgstr ""
+
+#: theblog/functions.php:550
+msgid "Pinterest"
+msgstr ""
+
+#: theblog/functions.php:551
+msgid "Pin this"
+msgstr ""
+
+#: theblog/functions.php:558 theblog/functions.php:559
+#: theblog/functions.php:711 theblog/header-author.php:63
+#: theblog/html/single/content-gallery.php:477
+#: theblog/html/single/single-about-author.php:45
+#: theblog/inc/theme-options.php:1387 theblog/inc/core/cactus-core.php:363
+#: theblog/inc/widgets/social_account.php:82
+msgid "Email"
+msgstr ""
+
+#: theblog/functions.php:676 theblog/functions.php:679
+#: theblog-shortcodes/shortcodes/text-block.php:29
+msgid "Position"
+msgstr ""
+
+#: theblog/functions.php:682
+msgid "Enter your Position."
+msgstr ""
+
+#: theblog/functions.php:687
+msgid "Social informations"
+msgstr ""
+
+#: theblog/functions.php:693
+msgid "Enter your Twitter profile url."
+msgstr ""
+
+#: theblog/functions.php:700
+msgid "Enter your Facebook profile url."
+msgstr ""
+
+#: theblog/functions.php:704
+msgid "Google+"
+msgstr ""
+
+#: theblog/functions.php:707
+msgid "Enter your Google+ profile url."
+msgstr ""
+
+#: theblog/functions.php:714
+msgid "Enter your Email."
+msgstr ""
+
+#: theblog/functions.php:719
+msgid "Author Pages Settings"
+msgstr ""
+
+#: theblog/functions.php:722
+msgid "Header Background"
+msgstr ""
+
+#: theblog/functions.php:729
+msgid ""
+"Choose header background for this author page. If empty, default background "
+"image in Theme Options will be used (Theme Options > General > Default "
+"Background)."
+msgstr ""
+
+#: theblog/functions.php:748
+msgid "Header Background Height"
+msgstr ""
+
+#: theblog/functions.php:751
+msgid ""
+"Enter Header Background Height. If put blank, value taken from theme options "
+"(Theme Options > General > Default Background Height). "
+msgstr ""
+
+#: theblog/functions.php:756 theblog/inc/category-metadata.php:38
+#: theblog/inc/metadata.php:51 theblog/inc/metadata.php:425
+msgid "Page Background"
+msgstr ""
+
+#: theblog/functions.php:763
+msgid "Choose background for this author page"
+msgstr ""
+
+#: theblog/functions.php:784
+msgid "Author Background Color"
+msgstr ""
+
+#: theblog/functions.php:792
+msgid "Choose author background color"
+msgstr ""
+
+#: theblog/functions.php:798
+msgid "Author Background Repeat"
+msgstr ""
+
+#: theblog/functions.php:804 theblog/inc/category-metadata.php:69
+msgid "No Repeat"
+msgstr ""
+
+#: theblog/functions.php:805 theblog/inc/category-metadata.php:70
+msgid "Repeat All"
+msgstr ""
+
+#: theblog/functions.php:806 theblog/inc/category-metadata.php:71
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: theblog/functions.php:807 theblog/inc/category-metadata.php:72
+msgid "Repeat Vertically"
+msgstr ""
+
+#: theblog/functions.php:808 theblog/functions.php:825
+#: theblog/inc/category-metadata.php:73 theblog/inc/category-metadata.php:88
+msgid "Inherit"
+msgstr ""
+
+#: theblog/functions.php:811
+msgid "Choose Author background repeat"
+msgstr ""
+
+#: theblog/functions.php:817
+msgid "Author Background Attachment"
+msgstr ""
+
+#: theblog/functions.php:823 theblog/inc/category-metadata.php:86
+msgid "Fixed"
+msgstr ""
+
+#: theblog/functions.php:824 theblog/inc/category-metadata.php:87
+msgid "Scroll"
+msgstr ""
+
+#: theblog/functions.php:828
+msgid "Choose author background attchment"
+msgstr ""
+
+#: theblog/functions.php:834
+msgid "Author Background Position"
+msgstr ""
+
+#: theblog/functions.php:840 theblog/inc/category-metadata.php:101
+msgid "Left Top"
+msgstr ""
+
+#: theblog/functions.php:841 theblog/inc/category-metadata.php:102
+msgid "Left Center"
+msgstr ""
+
+#: theblog/functions.php:842 theblog/inc/category-metadata.php:103
+msgid "Left Bottom"
+msgstr ""
+
+#: theblog/functions.php:843 theblog/inc/category-metadata.php:104
+msgid "Center Top"
+msgstr ""
+
+#: theblog/functions.php:844 theblog/inc/category-metadata.php:105
+msgid "Center Center"
+msgstr ""
+
+#: theblog/functions.php:845 theblog/inc/category-metadata.php:106
+msgid "Center Bottom"
+msgstr ""
+
+#: theblog/functions.php:846 theblog/inc/category-metadata.php:107
+msgid "Right Top"
+msgstr ""
+
+#: theblog/functions.php:847 theblog/inc/category-metadata.php:108
+msgid "Right Center"
+msgstr ""
+
+#: theblog/functions.php:848 theblog/inc/category-metadata.php:109
+msgid "Right Bottom"
+msgstr ""
+
+#: theblog/functions.php:851
+msgid "Choose author background position"
+msgstr ""
+
+#: theblog/functions.php:857
+msgid "Author Background Size"
+msgstr ""
+
+#: theblog/functions.php:861
+msgid "Choose author background size"
+msgstr ""
+
+#: theblog/functions.php:902
+msgid "CactusThemes - Support Forum"
+msgstr ""
+
+#: theblog/functions.php:903
+msgid "CactusThemes - Documentation"
+msgstr ""
+
+#: theblog/functions.php:991
+msgid "TheBlog version "
+msgstr ""
+
+#: theblog/functions.php:991
+msgid " is available !"
+msgstr ""
+
+#: theblog/functions.php:992
+msgid "Please update now"
+msgstr ""
+
+#: theblog/header-author.php:60 theblog/html/single/content-gallery.php:474
+#: theblog/html/single/single-about-author.php:42
+msgid "Google Plus"
+msgstr ""
+
+#: theblog/header-frontpage.php:219
+msgid "By"
+msgstr ""
+
+#: theblog/header-frontpage.php:219
+msgid "on "
+msgstr ""
+
+#: theblog/header-navigation.php:33
+msgid "Toggle navigation"
+msgstr ""
+
+#: theblog/header-navigation.php:91 theblog/header-navigation.php:180
+#: theblog/header-project.php:103 theblog/header-project.php:213
+#: theblog/header-project.php:302 theblog/header-project.php:456
+#: theblog/header-project.php:545 theblog/header.php:147
+msgid "Home"
+msgstr ""
+
+#: theblog/header-navigation.php:91 theblog/header-navigation.php:180
+#: theblog/header-project.php:103 theblog/header-project.php:213
+#: theblog/header-project.php:302 theblog/header-project.php:456
+#: theblog/header-project.php:545 theblog/header.php:147
+msgid "Home page"
+msgstr ""
+
+#: theblog/header-navigation.php:136 theblog/header-navigation.php:193
+#: theblog/header-project.php:118 theblog/header-project.php:258
+#: theblog/header-project.php:315 theblog/header-project.php:501
+#: theblog/header-project.php:558 theblog/header.php:162
+msgid "Search"
+msgstr ""
+
+#: theblog/page.php:436
+msgid "You need to install CactusThemes-Project plugin to use this function"
+msgstr ""
+
+#: theblog/search.php:28
+msgid "Search Results for \""
+msgstr ""
+
+#: theblog/c-project/content-project.php:60
+#: theblog/c-project/content-project.php:62
+msgid ""
+" <span class=\"nav-bt font-1\"> Previous </span> <span class=\"nav-title "
+"font-1\"> %title </span> "
+msgstr ""
+
+#: theblog/c-project/content-project.php:73
+#: theblog/c-project/content-project.php:75
+msgid ""
+" <span class=\"nav-bt font-1\"> Next </span> <span class=\"nav-title "
+"font-1\"> %title </span> "
+msgstr ""
+
+#: theblog/c-project/content-project.php:167
+msgid "Project Listing"
+msgstr ""
+
+#: theblog/c-project/content-project.php:178
+#: theblog/html/single/content-audio.php:176
+#: theblog/html/single/content-gallery.php:232
+#: theblog/html/single/content-gallery.php:427
+#: theblog/html/single/content-quote.php:160
+#: theblog/html/single/content-video.php:186
+#: theblog/html/single/content.php:167
+msgid "Share This: "
+msgstr ""
+
+#: theblog/html/loop/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: theblog/html/loop/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: theblog/html/loop/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: theblog/html/loop/content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: theblog/html/loop/content-search.php:67 theblog/html/loop/content.php:225
+msgid "Continue Reading ..."
+msgstr ""
+
+#: theblog/html/loop/content.php:161 theblog/inc/core/cactus-core.php:556
+#: theblog/inc/core/cactus-core.php:559
+msgid ", "
+msgstr ""
+
+#: theblog/html/loop/content.php:166
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: theblog/html/loop/content.php:179 theblog/html/loop/content.php:219
+msgid "premium"
+msgstr ""
+
+#: theblog/html/loop/content.php:341 theblog/html/single/single-related.php:16
+#: theblog/inc/theme-options.php:1004
+#: theblog/inc/widgets/latest_comments.php:61
+#: theblog/inc/widgets/related_posts.php:17
+#: theblog/inc/widgets/related_posts.php:81
+#: theblog/inc/widgets/social_account.php:49
+msgid "Related Posts"
+msgstr ""
+
+#: theblog/html/single/content-audio.php:144
+#: theblog/html/single/content-gallery.php:200
+#: theblog/html/single/content-gallery.php:397
+#: theblog/html/single/content-page.php:27
+#: theblog/html/single/content-quote.php:128
+#: theblog/html/single/content-video.php:154
+#: theblog/html/single/content.php:135
+msgid "Page "
+msgstr ""
+
+#: theblog/html/single/content-audio.php:144
+#: theblog/html/single/content-gallery.php:200
+#: theblog/html/single/content-gallery.php:397
+#: theblog/html/single/content-page.php:27
+#: theblog/html/single/content-quote.php:128
+#: theblog/html/single/content-video.php:154
+#: theblog/html/single/content.php:135
+msgid " of "
+msgstr ""
+
+#: theblog/html/single/content-audio.php:164
+#: theblog/html/single/content-gallery.php:220
+#: theblog/html/single/content-gallery.php:416
+#: theblog/html/single/content-quote.php:148
+#: theblog/html/single/content-video.php:174
+#: theblog/html/single/content.php:155
+msgid " "
+msgstr ""
+
+#: theblog/inc/category-metadata.php:17
+msgid "Header Background height"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:21
+msgid ""
+"put header background height for this category page. If empty, default "
+"background height in Theme Options will be used (Theme Options > General > "
+"Default Background Height)"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:48
+msgid "Choose background for this category"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:54
+msgid "Category Background Color"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:58
+msgid "Choose category background color"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:64
+msgid "Category Background Repeat"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:75
+msgid "Choose category background repeat"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:81
+msgid "Category Background Attachment"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:90
+msgid "Choose category background attchment"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:96
+msgid "Category Background Position"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:111
+msgid "Choose category background position"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:117
+msgid "Category Background Size"
+msgstr ""
+
+#: theblog/inc/category-metadata.php:121
+msgid "Choose category background size"
+msgstr ""
+
+#: theblog/inc/metadata.php:22 theblog/inc/metadata.php:396
+#: theblog/inc/theme-options.php:744 theblog/inc/theme-options.php:856
+#: theblog/inc/theme-options.php:1183
+msgid "Sidebar"
+msgstr ""
+
+#: theblog/inc/metadata.php:23 theblog/inc/metadata.php:397
+#: theblog/inc/metadata.php:452
+msgid "Select \"Default\" to use settings in Theme Options"
+msgstr ""
+
+#: theblog/inc/metadata.php:34 theblog/inc/metadata.php:408
+#: theblog/inc/theme-options.php:759 theblog/inc/theme-options.php:870
+#: theblog/inc/theme-options.php:1197
+#: theblog-shortcodes/shortcodes/text-block.php:35
+msgid "Right"
+msgstr ""
+
+#: theblog/inc/metadata.php:39 theblog/inc/metadata.php:413
+#: theblog/inc/theme-options.php:764 theblog/inc/theme-options.php:875
+#: theblog/inc/theme-options.php:1202
+#: theblog-shortcodes/shortcodes/text-block.php:34
+msgid "Left"
+msgstr ""
+
+#: theblog/inc/metadata.php:44 theblog/inc/metadata.php:418
+#: theblog/inc/theme-options.php:769 theblog/inc/theme-options.php:880
+#: theblog/inc/theme-options.php:1207
+msgid "Hidden"
+msgstr ""
+
+#: theblog/inc/metadata.php:52
+msgid "Choose background for this page"
+msgstr ""
+
+#: theblog/inc/metadata.php:61
+msgid "Front Page Layout"
+msgstr ""
+
+#: theblog/inc/metadata.php:69 theblog/inc/theme-options.php:488
+msgid "Main Layout"
+msgstr ""
+
+#: theblog/inc/metadata.php:81 theblog/inc/theme-options.php:508
+msgid "Left Navigation"
+msgstr ""
+
+#: theblog/inc/metadata.php:91
+msgid "Front Page Header"
+msgstr ""
+
+#: theblog/inc/metadata.php:99 theblog/inc/theme-options.php:515
+msgid "Front-page Heading "
+msgstr ""
+
+#: theblog/inc/metadata.php:100 theblog/inc/theme-options.php:516
+msgid ""
+"Enter heading text for front-page. Leave empty if you don't want to show it"
+msgstr ""
+
+#: theblog/inc/metadata.php:106
+msgid "Header Layout"
+msgstr ""
+
+#: theblog/inc/metadata.php:118 theblog/inc/theme-options.php:545
+msgid "Static Text Biography"
+msgstr ""
+
+#: theblog/inc/metadata.php:123 theblog/inc/theme-options.php:555
+msgid "Bottom Posts Carousel"
+msgstr ""
+
+#: theblog/inc/metadata.php:128 theblog/inc/theme-options.php:560
+msgid "Posts Tab"
+msgstr ""
+
+#: theblog/inc/metadata.php:133 theblog/inc/theme-options.php:565
+msgid "Top Posts Carousel"
+msgstr ""
+
+#: theblog/inc/metadata.php:140 theblog/inc/theme-options.php:572
+msgid "Background slider shortcode"
+msgstr ""
+
+#: theblog/inc/metadata.php:141 theblog/inc/theme-options.php:573
+msgid "Enter background slider shortcode"
+msgstr ""
+
+#: theblog/inc/metadata.php:147 theblog/inc/theme-options.php:617
+msgid "Static Text - Line 1"
+msgstr ""
+
+#: theblog/inc/metadata.php:148 theblog/inc/metadata.php:149
+#: theblog/inc/theme-options.php:618 theblog/inc/theme-options.php:619
+msgid "Enter text in the first line"
+msgstr ""
+
+#: theblog/inc/metadata.php:154 theblog/inc/theme-options.php:632
+msgid "Static Text - Line 2"
+msgstr ""
+
+#: theblog/inc/metadata.php:155 theblog/inc/metadata.php:156
+#: theblog/inc/theme-options.php:633 theblog/inc/theme-options.php:634
+msgid "Enter text in the second line"
+msgstr ""
+
+#: theblog/inc/metadata.php:161 theblog/inc/theme-options.php:647
+msgid "Static Text - Line 3"
+msgstr ""
+
+#: theblog/inc/metadata.php:162 theblog/inc/metadata.php:163
+#: theblog/inc/theme-options.php:648 theblog/inc/theme-options.php:649
+msgid "Enter text in the third line"
+msgstr ""
+
+#: theblog/inc/metadata.php:168
+msgid "Header Background Color"
+msgstr ""
+
+#: theblog/inc/metadata.php:169
+msgid "choose background color for Author Biography layout"
+msgstr ""
+
+#: theblog/inc/metadata.php:175 theblog/inc/theme-options.php:602
+msgid "Header Posts Carousel, Posts Tab - Count"
+msgstr ""
+
+#: theblog/inc/metadata.php:176
+msgid "Enter number of items to display"
+msgstr ""
+
+#: theblog/inc/metadata.php:182
+msgid "Header Posts Carousel, Posts Tab - Category"
+msgstr ""
+
+#: theblog/inc/metadata.php:183 theblog/inc/metadata.php:302
+msgid "Enter category Ids or slugs to get posts from, separated by a comma"
+msgstr ""
+
+#: theblog/inc/metadata.php:189
+msgid "Header Posts Carousel, Posts Tab - Tags"
+msgstr ""
+
+#: theblog/inc/metadata.php:190 theblog/inc/metadata.php:309
+msgid "Enter tags to get posts from, separated by a comma"
+msgstr ""
+
+#: theblog/inc/metadata.php:196
+msgid "Header Posts Carousel, Posts Tab - IDs"
+msgstr ""
+
+#: theblog/inc/metadata.php:197
+msgid "Enter post IDs, separated by a comma"
+msgstr ""
+
+#: theblog/inc/metadata.php:203
+msgid "Header Posts Carousel, Posts Tab - Order by"
+msgstr ""
+
+#: theblog/inc/metadata.php:210 theblog/inc/metadata.php:329
+#: theblog/inc/theme-options.php:929
+msgid "Published Date"
+msgstr ""
+
+#: theblog/inc/metadata.php:215 theblog/inc/metadata.php:334
+#: theblog/inc/theme-options.php:1078
+msgid "Random"
+msgstr ""
+
+#: theblog/inc/metadata.php:225
+msgid "Front Page Content"
+msgstr ""
+
+#: theblog/inc/metadata.php:240
+msgid "This Page Content"
+msgstr ""
+
+#: theblog/inc/metadata.php:245
+msgid "Blog(latest post)"
+msgstr ""
+
+#: theblog/inc/metadata.php:250
+msgid "Portfolio"
+msgstr ""
+
+#: theblog/inc/metadata.php:257 theblog/inc/theme-options.php:692
+msgid "Blog Layout"
+msgstr ""
+
+#: theblog/inc/metadata.php:264 theblog/inc/theme-options.php:707
+msgid "Grid"
+msgstr ""
+
+#: theblog/inc/metadata.php:269 theblog/inc/theme-options.php:712
+msgid "Masonry"
+msgstr ""
+
+#: theblog/inc/metadata.php:274 theblog/inc/theme-options.php:717
+msgid "One Column"
+msgstr ""
+
+#: theblog/inc/metadata.php:279 theblog/inc/theme-options.php:722
+msgid "Normal Classic"
+msgstr ""
+
+#: theblog/inc/metadata.php:284 theblog/inc/theme-options.php:727
+msgid "Wide Classic"
+msgstr ""
+
+#: theblog/inc/metadata.php:289 theblog/inc/theme-options.php:732
+msgid "Modern"
+msgstr ""
+
+#: theblog/inc/metadata.php:294 theblog/inc/theme-options.php:737
+msgid "Masonry  Modern"
+msgstr ""
+
+#: theblog/inc/metadata.php:301
+msgid "Post categories"
+msgstr ""
+
+#: theblog/inc/metadata.php:308
+msgid "Post tags"
+msgstr ""
+
+#: theblog/inc/metadata.php:315
+msgid "Post Ids"
+msgstr ""
+
+#: theblog/inc/metadata.php:316
+msgid ""
+"Enter post IDs, separated by a comma.If this param is used, other params are "
+"ignored"
+msgstr ""
+
+#: theblog/inc/metadata.php:322
+msgid "Order by"
+msgstr ""
+
+#: theblog/inc/metadata.php:341
+msgid "Post Count"
+msgstr ""
+
+#: theblog/inc/metadata.php:342
+msgid "Enter number of posts to display"
+msgstr ""
+
+#: theblog/inc/metadata.php:348
+msgid "Portfolio layout"
+msgstr ""
+
+#: theblog/inc/metadata.php:355
+msgid "Modern With Spacing"
+msgstr ""
+
+#: theblog/inc/metadata.php:360
+msgid "Modern No Spacing"
+msgstr ""
+
+#: theblog/inc/metadata.php:365
+msgid "Masonry Modern With Spacing"
+msgstr ""
+
+#: theblog/inc/metadata.php:370
+msgid "Masonry Modern No Spacing"
+msgstr ""
+
+#: theblog/inc/metadata.php:377
+msgid "Show tags filter"
+msgstr ""
+
+#: theblog/inc/metadata.php:426
+msgid "Choose background for this post"
+msgstr ""
+
+#: theblog/inc/metadata.php:432
+msgid "Show Related Posts in Archive"
+msgstr ""
+
+#: theblog/inc/metadata.php:433
+msgid ""
+"Show Related Posts in Archive pages. This setting is effective in classic "
+"blog layout only"
+msgstr ""
+
+#: theblog/inc/metadata.php:439 theblog/inc/metadata.php:536
+msgid "Yes"
+msgstr ""
+
+#: theblog/inc/metadata.php:444 theblog/inc/metadata.php:531
+msgid "No"
+msgstr ""
+
+#: theblog/inc/metadata.php:451
+msgid "Layout for Standard Posts"
+msgstr ""
+
+#: theblog/inc/metadata.php:463 theblog/inc/metadata.php:487
+#: theblog/inc/theme-options.php:902 theblog/inc/theme-options.php:1121
+msgid "Layout 1"
+msgstr ""
+
+#: theblog/inc/metadata.php:468 theblog/inc/metadata.php:492
+#: theblog/inc/theme-options.php:907 theblog/inc/theme-options.php:1126
+msgid "Layout 2"
+msgstr ""
+
+#: theblog/inc/metadata.php:475
+msgid "Layout for Gallery Posts"
+msgstr ""
+
+#: theblog/inc/metadata.php:476
+msgid ""
+"Choose layout for gallery posts. Select \"Default\" to use settings in Theme "
+"Options"
+msgstr ""
+
+#: theblog/inc/metadata.php:499
+msgid "Slider Height for Gallery Layout 1"
+msgstr ""
+
+#: theblog/inc/metadata.php:500
+msgid "Height of slider in gallery post layout 1, in pixels. For example: 800"
+msgstr ""
+
+#: theblog/inc/metadata.php:516
+msgid "Post Settings"
+msgstr ""
+
+#: theblog/inc/metadata.php:524
+msgid "Featured Post"
+msgstr ""
+
+#: theblog/inc/metadata.php:525
+msgid ""
+"Make this post featured. Featured posts will appear in Header Posts Carousel"
+msgstr ""
+
+#: theblog/inc/metadata.php:543
+msgid "Representative Color"
+msgstr ""
+
+#: theblog/inc/metadata.php:544
+msgid ""
+"Choose a color that represents this project. It is the color of an item when "
+"hovered in a grid listing page"
+msgstr ""
+
+#: theblog/inc/template-tags.php:93
+msgid "Load more articles"
+msgstr ""
+
+#: theblog/inc/template-tags.php:122
+msgid ""
+" <span class=\"nav-bt font-1\">Previous</span> <span class=\"nav-title "
+"font-1\"> %title </span> "
+msgstr ""
+
+#: theblog/inc/template-tags.php:123
+msgid ""
+" <span class=\"nav-bt font-1\">Next</span> <span class=\"nav-title font-1\"> "
+"%title </span> "
+msgstr ""
+
+#: theblog/inc/template-tags.php:147
+#, php-format
+msgid ""
+"<span class=\"posted-on\">%1$s</span><span class=\"byline\"> by %2$s</span>"
+msgstr ""
+
+#: theblog/inc/theme-options.php:36
+msgid "Help content goes here!"
+msgstr ""
+
+#: theblog/inc/theme-options.php:39
+msgid "Sidebar content goes here!"
+msgstr ""
+
+#: theblog/inc/theme-options.php:72 theblog/inc/widgets/social_account.php:17
+msgid "Social Accounts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:76 theblog/inc/theme-options.php:974
+msgid "Social Sharing"
+msgstr ""
+
+#: theblog/inc/theme-options.php:92
+msgid "Enable Search"
+msgstr ""
+
+#: theblog/inc/theme-options.php:93
+msgid "Enable or disable default search form in every pages"
+msgstr ""
+
+#: theblog/inc/theme-options.php:107
+msgid "SEO - Echo Meta Tags"
+msgstr ""
+
+#: theblog/inc/theme-options.php:108
+msgid ""
+"By default, The Blog generates its own SEO meta tags (for example: Facebook "
+"Meta Tags). If you are using another SEO plugin like YOAST or a Facebook "
+"plugin, you can turn off this option"
+msgstr ""
+
+#: theblog/inc/theme-options.php:122
+msgid "Copyright Text"
+msgstr ""
+
+#: theblog/inc/theme-options.php:123
+msgid "Appear in footer"
+msgstr ""
+
+#: theblog/inc/theme-options.php:137
+msgid "RTL Mode"
+msgstr ""
+
+#: theblog/inc/theme-options.php:152
+msgid "Custom CSS"
+msgstr ""
+
+#: theblog/inc/theme-options.php:153
+msgid "Enter custom CSS. Ex: .class{ font-size: 13px; }"
+msgstr ""
+
+#: theblog/inc/theme-options.php:166
+msgid "Custom Code"
+msgstr ""
+
+#: theblog/inc/theme-options.php:167
+msgid "Enter custom code or JS code here. For example, enter Google Analytics"
+msgstr ""
+
+#: theblog/inc/theme-options.php:181
+msgid "Favicon"
+msgstr ""
+
+#: theblog/inc/theme-options.php:182
+msgid "Upload favicon (.ico)"
+msgstr ""
+
+#: theblog/inc/theme-options.php:196
+msgid "Logo Image"
+msgstr ""
+
+#: theblog/inc/theme-options.php:197
+msgid "Upload your logo image"
+msgstr ""
+
+#: theblog/inc/theme-options.php:211
+msgid "Logo Image For Sticky Menu"
+msgstr ""
+
+#: theblog/inc/theme-options.php:212
+msgid "Upload your logo image for sticky menu"
+msgstr ""
+
+#: theblog/inc/theme-options.php:226
+msgid "Retina Logo (optional)"
+msgstr ""
+
+#: theblog/inc/theme-options.php:227
+msgid ""
+"Retina logo should be two time bigger than the custom logo. Retina Logo is "
+"optional, use this setting if you want to strictly support retina devices."
+msgstr ""
+
+#: theblog/inc/theme-options.php:241
+msgid "Login Logo Image"
+msgstr ""
+
+#: theblog/inc/theme-options.php:242
+msgid "Upload your Admin Login logo image"
+msgstr ""
+
+#: theblog/inc/theme-options.php:256
+msgid "Scroll Top button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:257
+msgid "Enable Scroll Top button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:265
+msgid "CTA button Text"
+msgstr ""
+
+#: theblog/inc/theme-options.php:266
+msgid "Text on Call-To-Action button. If empty, button is hidden"
+msgstr ""
+
+#: theblog/inc/theme-options.php:280
+msgid "CTA button URL"
+msgstr ""
+
+#: theblog/inc/theme-options.php:281
+msgid "URL of Call-To-Action button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:295
+msgid "CTA button target"
+msgstr ""
+
+#: theblog/inc/theme-options.php:296
+msgid "If clicked, open URL in current page or new page"
+msgstr ""
+
+#: theblog/inc/theme-options.php:316
+msgid "Scroll Effect"
+msgstr ""
+
+#: theblog/inc/theme-options.php:317
+msgid "Enable Page Scroll effect"
+msgstr ""
+
+#: theblog/inc/theme-options.php:382
+msgid "Main Color"
+msgstr ""
+
+#: theblog/inc/theme-options.php:383
+msgid "Choose main color of theme"
+msgstr ""
+
+#: theblog/inc/theme-options.php:397
+msgid "Google Font"
+msgstr ""
+
+#: theblog/inc/theme-options.php:398
+msgid "Use Google Fonts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:412
+msgid "Main Font Family"
+msgstr ""
+
+#: theblog/inc/theme-options.php:413
+msgid ""
+"Enter font-family name here. Google Fonts are supported. For example, if you "
+"choose \"Source Code Pro\" <a href=\"http://www.google.com/fonts/\">Google "
+"Font</a> with font-weight 400,500,600, enter Source Code Pro: 400,500,600"
+msgstr ""
+
+#: theblog/inc/theme-options.php:427
+msgid "Heading Font Family"
+msgstr ""
+
+#: theblog/inc/theme-options.php:428
+msgid ""
+"Enter font-family name here. Google Fonts are supported. For example, if you "
+"choose \"Source Code Pro\" <a href=\"http://www.google.com/fonts/\">Google "
+"Font</a> with font-weight 400,500,600, enter Source Code Pro: 400,500,600 "
+"<br/> <i>Only few  heading texts are affected</i>"
+msgstr ""
+
+#: theblog/inc/theme-options.php:441
+msgid "Main Font Size"
+msgstr ""
+
+#: theblog/inc/theme-options.php:442
+msgid "Select base font size"
+msgstr ""
+
+#: theblog/inc/theme-options.php:456
+msgid "Custom Font 1"
+msgstr ""
+
+#: theblog/inc/theme-options.php:457
+msgid ""
+"Upload your own font and enter name \"custom-font-1\" in \"Main Font Family"
+"\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: theblog/inc/theme-options.php:470
+msgid "Custom Font 2"
+msgstr ""
+
+#: theblog/inc/theme-options.php:471
+msgid ""
+"Upload your own font and enter name \"custom-font-2\" in \"Main Font Family"
+"\" or \"Heading Font Family\" setting above"
+msgstr ""
+
+#: theblog/inc/theme-options.php:489
+msgid "Choose theme layout"
+msgstr ""
+
+#: theblog/inc/theme-options.php:503
+msgid "Standard "
+msgstr ""
+
+#: theblog/inc/theme-options.php:530
+msgid "Header Layout(Standard Theme Layout only)"
+msgstr ""
+
+#: theblog/inc/theme-options.php:531
+msgid "Select header style"
+msgstr ""
+
+#: theblog/inc/theme-options.php:587
+msgid "Scroll down text"
+msgstr ""
+
+#: theblog/inc/theme-options.php:588
+msgid "Scroll down text for Background Slider"
+msgstr ""
+
+#: theblog/inc/theme-options.php:603
+msgid "Number of items in header posts carousel"
+msgstr ""
+
+#: theblog/inc/theme-options.php:662
+msgid "Mega Menu"
+msgstr ""
+
+#: theblog/inc/theme-options.php:663
+msgid "Enable mega menu feature"
+msgstr ""
+
+#: theblog/inc/theme-options.php:677
+msgid "Sticky navigation"
+msgstr ""
+
+#: theblog/inc/theme-options.php:678
+msgid "Enable sticky navigation"
+msgstr ""
+
+#: theblog/inc/theme-options.php:693 theblog/inc/theme-options.php:745
+msgid "Select style for blog"
+msgstr ""
+
+#: theblog/inc/theme-options.php:776
+msgid "Pagination"
+msgstr ""
+
+#: theblog/inc/theme-options.php:777
+msgid ""
+"Choose type of pagination for all archives pages. If you choose WP PageNavi, "
+"make sure you have installed this plugin in advanced"
+msgstr ""
+
+#: theblog/inc/theme-options.php:790
+msgid "Default WordPress"
+msgstr ""
+
+#: theblog/inc/theme-options.php:795
+msgid "Ajax"
+msgstr ""
+
+#: theblog/inc/theme-options.php:800
+msgid "WP PageNavi"
+msgstr ""
+
+#: theblog/inc/theme-options.php:807
+msgid "Default Header Background"
+msgstr ""
+
+#: theblog/inc/theme-options.php:808
+msgid "Choose default header background for categories and authors pages"
+msgstr ""
+
+#: theblog/inc/theme-options.php:822
+msgid "Default Header Background Height"
+msgstr ""
+
+#: theblog/inc/theme-options.php:823
+msgid ""
+"Height of header background for categories and authors pages. Default: 585"
+msgstr ""
+
+#: theblog/inc/theme-options.php:824
+msgid "585"
+msgstr ""
+
+#: theblog/inc/theme-options.php:837
+msgid "Default Page Background"
+msgstr ""
+
+#: theblog/inc/theme-options.php:838
+msgid "Choose default background for all pages"
+msgstr ""
+
+#: theblog/inc/theme-options.php:887
+msgid "Layout For Standard Posts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:888
+msgid "Choose default layout for standard posts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:914
+msgid "Author"
+msgstr ""
+
+#: theblog/inc/theme-options.php:930
+msgid "Enable Published Date info"
+msgstr ""
+
+#: theblog/inc/theme-options.php:944
+msgid "Categories"
+msgstr ""
+
+#: theblog/inc/theme-options.php:945
+msgid "Enable Categories info"
+msgstr ""
+
+#: theblog/inc/theme-options.php:959 theblog/inc/theme-options.php:1052
+#: theblog/inc/widgets/related_posts.php:44
+msgid "Tags"
+msgstr ""
+
+#: theblog/inc/theme-options.php:960
+msgid "Enable Tags info"
+msgstr ""
+
+#: theblog/inc/theme-options.php:975
+msgid "Enable Social Sharing"
+msgstr ""
+
+#: theblog/inc/theme-options.php:989
+msgid "Post Navigation"
+msgstr ""
+
+#: theblog/inc/theme-options.php:990
+msgid "Enable Post Navigation"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1005
+msgid "Enable Related Posts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1019
+msgid "Related Post Count"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1020
+msgid "Number of related posts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1033
+msgid "Related Posts by"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1047
+msgid "Categories "
+msgstr ""
+
+#: theblog/inc/theme-options.php:1059
+msgid "Related Posts Order By"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1073
+msgid "Date "
+msgstr ""
+
+#: theblog/inc/theme-options.php:1085
+msgid "About Author"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1086
+msgid "Enable About Author info"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1106
+msgid "Layout For Gallery Posts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1107
+msgid "Choose default layout for gallery posts"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1133
+msgid "Gallery Slider Autoplay"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1134
+msgid "Enable autoplay for Gallery Slider"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1148
+msgid "Gallery Slider Speed"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1149
+msgid "Set speed for Gallery Slider (in milliseconds). Default: 5000"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1162
+msgid "Default Slider Height in Gallery Post Layout 1"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1163
+msgid "Default Slider Height in Gallery Post Layout 1. Default: 800"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1214
+msgid "Disable Comments by default"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1215
+msgid "Disable comments on single pages"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1233
+msgid "Page Title"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1248
+msgid "Page Content"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1268 theblog/inc/theme-options.php:1283
+#: theblog/inc/theme-options.php:1298 theblog/inc/theme-options.php:1313
+#: theblog/inc/theme-options.php:1328 theblog/inc/theme-options.php:1343
+#: theblog/inc/theme-options.php:1358 theblog/inc/theme-options.php:1373
+msgid "Enter full link to your profile page"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1388
+msgid "Enter email contact"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1402
+msgid "Custom Social Account"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1403
+msgid "Add more social accounts using Font Awesome Icons"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1413
+msgid "Enter Font Awesome class (Ex: fa-facebook)"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1423
+msgid "Enter full link to your account (including http://)"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1433
+msgid "Open Social Link in new tab"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1452
+msgid "Show FaceBook Share button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1468
+msgid "Show Twitter Share Button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1484
+msgid "Show LinkedIn Share Button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1500
+msgid "Show Tumblr Share Button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1516
+msgid "Show Google+ Share Button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1532
+msgid "Show Pinterest Pin Button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1548
+msgid "Show Email Button"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1568
+msgid "Enter your Google AdSense Publisher ID"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1583
+msgid ""
+"If you want to display Adsense on Top of Archive pages, enter Google AdSense "
+"Ad Slot ID here. If left empty, \"Top Ads Archives - Custom Code\" will be "
+"used"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1598
+msgid "Enter custom code for Top Ads Archives position"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1613
+msgid ""
+"If you want to display Adsense at Bottom of Archive pages, enter Google "
+"AdSense Ad Slot ID here. If left empty, \"Bottom Ads Archives - Custom Code"
+"\" will be used"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1628
+msgid "Enter custom code for Bottom Ads Archives position"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1643
+msgid ""
+"If you want to display Adsense on Top of single pages, enter Google AdSense "
+"Ad Slot ID here. If left empty, \"Top Ads Single - Custom Code\" will be used"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1658
+msgid "Enter custom code for Top Ads Single position"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1673
+msgid ""
+"If you want to display Adsense at Bottom of single pages, enter Google "
+"AdSense Ad Slot ID here. If left empty, \"Bottom Ads Single - Custom Code\" "
+"will be used"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1688
+msgid "Enter custom code for Bottom Ads Single position"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1707
+msgid "Enter your Envato username"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1722
+msgid ""
+"Enter your Envato API. You can find your API under in Profile page > My "
+"Settings > API Keys"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1736
+msgid "Allow Auto Update"
+msgstr ""
+
+#: theblog/inc/theme-options.php:1737
+msgid ""
+"Allow Auto Update or Not. If not, you can go to Appearance > Themes and "
+"click on Update link"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:49
+msgid "Install Required &amp; Recommended Plugins"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:50
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:51
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:52
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:63
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:64
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:177
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1939
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:65
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:124
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:156
+msgid "Older posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:157
+msgid "<span class=\"meta-nav\">&larr;</span> Newer posts"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:287
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:300
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:331
+msgid "Your Name *"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:332
+msgid "Your Email *"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:333
+msgid "Your Website"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:361
+msgid "Name"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:365
+msgid "Website"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:369
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:381
+msgid "Comment"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:382
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:383
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:384
+msgid "Your email address will not be published."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:388
+msgid "Your comment"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:389
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:390
+msgid "Cancel reply"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:391
+msgid "Post Comment"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:570
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:576
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-author"
+"\"> by %4$s</span>."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:578
+#, php-format
+msgid ""
+"This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+"span>."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:580
+#, php-format
+msgid "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:730
+msgid "Custom Variation"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:833
+msgid "Widget width"
+msgstr ""
+
+#: theblog/inc/core/cactus-core.php:962
+msgid "Theme Updated!"
+msgstr ""
+
+#: theblog/inc/megamenu/megamenu.php:621
+msgid "Select style for Menu"
+msgstr ""
+
+#: theblog/inc/megamenu/megamenu.php:622
+msgid "Menu Style"
+msgstr ""
+
+#: theblog/inc/megamenu/megamenu.php:665
+msgid "Select the widget area to display"
+msgstr ""
+
+#: theblog/inc/megamenu/megamenu.php:666
+msgid "Display widgets area "
+msgstr ""
+
+#: theblog/inc/megamenu/megamenu.php:706
+msgid "Logic to display this menu item"
+msgstr ""
+
+#: theblog/inc/megamenu/megamenu.php:707
+msgid "Display Logic"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:420
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:424
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:447
+msgid "Edit Menu Item"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:456
+msgid "URL"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:463
+msgid "Navigation Label"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:469
+msgid "Title Attribute"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:476
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:481
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:487
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:497
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:506
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: theblog/inc/megamenu/core/MegaMenuWalker.class.php:511
+msgid "Cancel"
+msgstr ""
+
+#: theblog/inc/plugins/envato-wordpress-toolkit/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: theblog/inc/plugins/envato-wordpress-toolkit/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: theblog/inc/plugins/envato-wordpress-toolkit/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: theblog/inc/plugins/envato-wordpress-toolkit/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: theblog/inc/plugins/envato-wordpress-toolkit/class-envato-wordpress-theme-upgrader.php:282
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: theblog/inc/plugins/envato-wordpress-toolkit/class-envato-wordpress-theme-upgrader.php:293
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:531
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2156
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1166
+msgid "Private Repository"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1169
+msgid "Pre-Packaged"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1174
+msgid "WordPress Repository"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1177
+msgid "Required"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1177
+msgid "Recommended"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1180
+msgid "Not Installed"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1182
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1287
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1395
+msgid "Install"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1358
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1374
+msgid "Plugin"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1375
+msgid "Source"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1377
+msgid "Status"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1922
+msgid "Install package not available."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1923
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1924
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1925
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1926
+msgid "Plugin install failed."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1927
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:1938
+msgid "Plugin activation failed."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2052
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2053
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2053
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2062
+msgid "Show Details"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2053
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2062
+msgid "Hide Details"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2054
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2055
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2059
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2060
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2062
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2063
+msgid "All installations have been completed."
+msgstr ""
+
+#: theblog/inc/plugins/plugin-activation/class-tgm-plugin-activation.php:2064
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/parsers.php:42
+#: theblog/inc/plugins/wordpress-importer/parsers.php:72
+#: theblog/inc/plugins/wordpress-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/parsers.php:84
+#: theblog/inc/plugins/wordpress-importer/parsers.php:89
+#: theblog/inc/plugins/wordpress-importer/parsers.php:279
+#: theblog/inc/plugins/wordpress-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:134
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:143
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:194
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:198
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:511
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:1033
+msgid "Import WordPress"
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:1040
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:1055
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:1056
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: theblog/inc/plugins/wordpress-importer/wordpress-importer.php:1131
+msgid ""
+"Import <strong>posts, pages, comments, custom fields, categories, and tags</"
+"strong> from a WordPress export file."
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:9
+msgid "Add a custom menu to your sidebar."
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:26
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:31
+msgid "Title:"
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:35
+msgid "Select Menu:"
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:37
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:48
+msgid "Animation:"
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:54
+msgid "Click"
+msgstr ""
+
+#: theblog/inc/widgets/custom_menu.php:55
+msgid "Hover"
+msgstr ""
+
+#: theblog/inc/widgets/latest_comments.php:9
+msgid "Show Latest Comments"
+msgstr ""
+
+#: theblog/inc/widgets/latest_comments.php:17
+msgid "Latest Comments"
+msgstr ""
+
+#: theblog/inc/widgets/latest_comments.php:33
+msgid "Number of comments"
+msgstr ""
+
+#: theblog/inc/widgets/latest_comments.php:84
+msgid "In"
+msgstr ""
+
+#: theblog/inc/widgets/related_posts.php:9
+msgid "Show related posts"
+msgstr ""
+
+#: theblog/inc/widgets/related_posts.php:39
+msgid "Category (Category ID or Slug)"
+msgstr ""
+
+#: theblog/inc/widgets/related_posts.php:49
+msgid "Post IDs: (If this param is used, other params are ignored)"
+msgstr ""
+
+#: theblog/inc/widgets/related_posts.php:54
+msgid "Number of posts"
+msgstr ""
+
+#: theblog/inc/widgets/social_account.php:9
+msgid "Show Social Accounts at Theme Options > Social Accounts"
+msgstr ""
+
+#: theblog/sample-data/cactus_importer.php:359
+msgid "Sample data imported!"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/button.php:26
+msgid "Theblog Button"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/button.php:35
+msgid "Button Text"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/button.php:42
+msgid "Button Link"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/button.php:51
+msgid "Button Size"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/button.php:54
+msgid "Small"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/button.php:55
+msgid "Large"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/button.php:63
+msgid "Button Color"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:130
+msgid "Theblog Comparetable"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:138
+msgid "Column Title"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:155
+#: theblog-shortcodes/shortcodes/compare-table.php:222
+msgid "Background Color"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:162
+msgid "Price"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:170
+msgid "Price Text"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:177
+msgid "Currency"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:186
+msgid "Price Color"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:196
+msgid "Row"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/compare-table.php:205
+msgid "Row Content"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/divider.php:24
+msgid "Theblog Divider"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/icon-box.php:35
+msgid "Theblog Iconbox"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/icon-box.php:44
+msgid "Icon"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/icon-box.php:52
+msgid "Color"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/icon-box.php:68
+msgid "Title Hover Color"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:91
+msgid "Theblog Image Carousel"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:99
+msgid "Height of carousel"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:102
+msgid "Height of carousel (in pixels). Default is 550 (px)"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:109
+msgid "Enable autoplay"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:112
+msgid "False"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:113
+msgid "True"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:119
+msgid "Speed of carousel"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:122
+msgid "speed of carousel animation (in milliseconds)."
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:128
+msgid "Carousel Image"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-carousel.php:136
+#: theblog-shortcodes/shortcodes/image-column.php:68
+msgid "Upload/Add Image"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-column.php:41
+msgid "Theblog Image Column"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-column.php:50
+msgid "Class Name"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/image-column.php:60
+msgid "Column Image"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/text-block.php:20
+msgid "Theblog Textblock"
+msgstr ""
+
+#: theblog-shortcodes/shortcodes/text-block.php:33
+msgid "Center"
+msgstr ""
