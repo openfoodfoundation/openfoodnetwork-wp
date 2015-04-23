@@ -1,0 +1,121 @@
+<?xml version='1.0'?> 
+<options>
+	<tab label="General" icon="cog">
+		<group>
+			<fields label="Project Slug">
+				<option id="cactus-project-slug" type="textfield" width="400" default="project"></option>
+				<description>Change project slug. Remember to save the permalink settings again in Settings > Permalinks</description>
+			</fields>
+			<fields label="Tag Slug">
+				<option id="cactus-project-slug-tag" type="textfield" width="400" default="project-tag"></option>
+				<description>Change project tag slug. Remember to save the permalink settings again in Settings > Permalinks</description>
+			</fields>
+			<fields label="Next Posts in (select)">
+				<option id="cactus-project-nav-post" type="select" default="same_tags" tooltip="" >
+					<select value="same_tags" text="Same Tags"/>
+					<select value="all_projects" text="All Projects"/>
+				</option>
+				<description></description>
+			</fields>
+			<fields label="Main Layout">
+				<option id="cactus-project-listing-layout" type="select" default="prj_standard" tooltip="" >
+					<select value="prj_standard" text="Standard"/>
+					<select value="prj_left" text="Left Layout"/>
+				</option>
+				<description>Choose layout for Project page</description>
+			</fields>
+		</group>
+	</tab>
+	<tab label="Project Listing" icon="cog">
+		<group>			
+			<fields label="Left Layout Heading">
+				<option id="cactus-project-left-layout-heading" type="textfield" width="400" default="Building The Better Web"></option>
+				<description>Enter text for the Heading (Only for Left Layout)</description>
+			</fields>
+			<fields label="Header Layout">
+				<option id="cactus-project-listing-header" type="select" default="prj_stt_text" tooltip="" >
+					<select value="prj_bg_slider" text="Background Slider"/>
+					<select value="prj_stt_text" text="Static Text"/>
+				</option>
+				<description>Choose Header Layout for Project Listing page (for Standard Main Layout only)</description>
+			</fields>
+			<fields label="Background slider shortcode">
+				<option id="cactus-project-listing-header-shortcode" type="textarea" cols="61" rows="3" default=""></option>
+				<description>Enter background slider shortcode</description>
+			</fields>	
+			<fields label="Static Text - Line 1">
+				<option id="cactus-project-listing-static-text-1" type="textfield" width="400" default=""></option>
+				<description>Enter text for the first line</description>
+			</fields>
+			<fields label="Static Text - Line 2">
+				<option id="cactus-project-listing-static-text-2" type="textfield" width="400" default=""></option>
+				<description>Enter text for the second line</description>
+			</fields>
+			<fields label="Static Text - Line 3">
+				<option id="cactus-project-listing-static-text-3" type="textfield" width="400" default=""></option>
+				<description>Enter text for the third line</description>
+			</fields>
+			<fields label="Blog Layout">
+				<option id="cactus-project-listing-blog" type="select" default="prj_list_modern_spacing" tooltip="" >
+					<select value="prj_list_modern_spacing" text="Modern With Spacing "/>
+					<select value="prj_list_modern_no_spacing" text="Modern No Spacing"/>
+					<select value="prj_list_masonry_modern" text="Masonry Modern With Spacing"/>
+					<select value="prj_list_masonry_modern_no_spacing" text="Masonry Modern No Spacing"/>
+				</option>
+				<description>Choose layout for listing items</description>
+			</fields>
+			<fields label="Show Tags Filter">
+				<option id="cactus-project-show-tag-filter" type="radio" default="1">
+					<select value="1" text="Yes"/>
+					<select value="0" text="No"/>
+				</option>
+			</fields>
+			<fields label="Pagination">
+				<option id="cactus-project-listing-pagination" type="select" default="def_wp" tooltip="" >
+					<select value="def_wp" text="Default Wordpress"/>
+					<select value="wp_pagenavi" text="WP PageNavi"/>
+				</option>
+				<description>Choose type of pagination for project listing page</description>
+			</fields>		
+		</group>
+	</tab>
+	<tab label="Single Project" icon="cog">
+		<group>
+			<fields label="Layout">
+				<option id="cactus-project-layout" type="select" default="slide" tooltip="" >
+					<select value="slide" text="Project Slide"/>
+					<select value="photo" text="Project Photo"/>
+				</option>
+				<description>Select default layout for single project pages </description>
+			</fields>
+			<fields label="Show Back Button">
+				<option id="cactus-project-show-back" type="radio" default="1">
+					<select value="1" text="Yes"/>
+					<select value="0" text="No"/>
+				</option>
+			</fields>
+			<fields label="Show Sharing Buttons">
+				<option id="cactus-project-show-sharing" type="radio" default="1">
+					<select value="1" text="Yes"/>
+					<select value="0" text="No"/>
+				</option>
+			</fields>
+			<fields label="Show Navigation">
+				<option id="cactus-project-show-navigation" type="radio" default="1">
+					<select value="1" text="Yes"/>
+					<select value="0" text="No"/>
+				</option>
+			</fields>
+			<fields label="Show Related Projects">
+				<option id="cactus-project-show-related" type="radio" default="1">
+					<select value="1" text="Yes"/>
+					<select value="0" text="No"/>
+				</option>
+			</fields>
+			<fields label="Related Project">
+				<option id="cactus-project-count-related" label="Number of items" type="textfield" width="100" default="6"></option>
+				<description>Enter number of related projects to show</description>
+			</fields>	
+		</group>
+	</tab>
+</options>

@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+#cactus_alert_shortcode,
+#cactus_button_shortcode,
+#cactus_collapse_shortcode,
+#cactus_dropcap_shortcode,
+#cactus_row_col_shortcode,
+#cactus_tabs_shortcode,
+#cactus_text_block_shortcode,
+#cactus_tooltip_shortcode,
+
+#cactus_iconbox_shortcode,
+#cactus_divider_shortcode,
+#cactus_compare_shortcode,
+#cactus_image_column_shortcode,
+#cactus_image_carousel_shortcode {
+	display:none;
+}
+
+i.mce-ico.mce-i-icons {
+	background:url(../img/post-grid.png) no-repeat center;
+}
+.mce-container[aria-label="Shortcode"] {
+overflow-y: scroll;
+overflow-x: hidden;
+max-height: 80%;
+top: 10% !important;
+width:315px !important;
+}

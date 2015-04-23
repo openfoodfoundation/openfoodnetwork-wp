@@ -1,0 +1,11 @@
+/* Options Page Style */
+body{background:none}
+.wrap{background: none repeat scroll 0 0 #FFFFFF;border-radius: 3px;margin: 10px 20px 0 2px;padding: 10px 20px;}
+.wrap h2{margin:0 0 20px 0}
+.wp-picker-holder{position:absolute}
+.wp-picker-container{line-height:2.5em}
+.row .option{margin:0 40px 0 0;display:inline-block	}
+.row .option label{margin:0 10px 0 0}
+.row.description{font-style:italic;color:#999;}
+.uk-table .row td,.uk-table th{border-bottom:none}
+.uk-table .row.label td{border-bottom:1px dashed #CCC;font-weight:bold}
