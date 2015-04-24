@@ -1,0 +1,41 @@
+# wp-discourse
+
+This WordPress plugin allows you to **use Discourse as a community engine for your WordPress blog**.
+
+## Features
+
+* Optinally publish all new posts to Discourse automatically
+* Use Discourse to comment on blog posts with associated Discourse topics
+* Periodicially sync the "best" posts in Discourse topics back to the associated WordPress blog entry as WordPress comments
+* Enable SSO to Discourse
+* Define format of post on Discourse
+* Set username of post on Discourse
+* Set published category on Discourse
+* Allow author to automatically track published Discourse topics
+* Show comments on Discourse based on post score and commenter trust level
+
+## Installation
+
+If you're using Composer to manage WordPress, add WP-Discourse to your project's dependencies. Run:
+
+```sh
+composer require discourse/wp-discourse 0.6.4
+```
+
+Or manually add it to your `composer.json`:
+
+```json
+"require": {
+  "php": ">=5.3.0",
+  "wordpress": "4.1.1",
+  "discourse/wp-discourse": "0.6.4"
+}
+```
+
+## Contributing
+
+1. Fork this repo
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new pull request
