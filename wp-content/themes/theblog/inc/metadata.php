@@ -50,7 +50,7 @@ if ( ! function_exists( 'cactus_meta_boxes' ) ){
 					  'id'          => 'page_background',
 					  'label'       => esc_html__('Page Background','cactusthemes'),
 					  'desc'        => esc_html__('Choose background for this page','cactusthemes'),
-					  'std'         => 'default',
+					  'std'         => '',
 					  'type'        => 'background'
 				)
 			 )
@@ -139,7 +139,7 @@ if ( ! function_exists( 'cactus_meta_boxes' ) ){
 					  'id'          => 'background_slider_shortcode',
 					  'label'       => esc_html__('Background slider shortcode','cactusthemes'),
 					  'desc'        => esc_html__('Enter background slider shortcode','cactusthemes'),
-					  'std'         => '[b-slider cats="" ids="" number_of_slides="" auto_play="" pagination="" transition="" full_height="" scroll_down_button=""]',
+					  'std'         => '[b-slider cats="" ids="" number_of_slides="" auto_play="" pagination="" transition="" full_height="" scroll_down_button="" type="" order="" orderby=""]',
 					  'type'        => 'textarea-simple'
 				),
 				array(
@@ -424,14 +424,14 @@ if ( ! function_exists( 'cactus_meta_boxes' ) ){
 					  'id'          => 'page_background',
 					  'label'       => esc_html__('Page Background','cactusthemes'),
 					  'desc'        => esc_html__('Choose background for this post','cactusthemes'),
-					  'std'         => 'default',
+					  'std'         => '',
 					  'type'        => 'background'
 				),
 		  		array(
 		  			  'id'          => 'post_show_related_post_in_archive',
 		  			  'label'       => esc_html__('Show Related Posts in Archive','cactusthemes'),
 		  			  'desc'        => esc_html__('Show Related Posts in Archive pages. This setting is effective in classic blog layout only','cactusthemes'),
-		  			  'std'         => 'default',
+		  			  'std'         => 'yes',
 		  			  'type'        => 'select',
 		  			  'choices'     => array(
 		  			  	array(

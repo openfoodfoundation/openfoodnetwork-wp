@@ -1,11 +1,27 @@
 .home-support {
-  background-color: red; }
+  padding-top: 2em;
+  padding-bottom: 2em;
+  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  background-color: rgba(255, 0, 0, 0.1); }
 
 .home-brand-story {
-  background-color: blue; }
+  padding-top: 2em;
+  padding-bottom: 2em;
+  border-top: 1px solid blue;
+  border-bottom: 1px solid blue;
+  background-color: rgba(0, 0, 255, 0.1); }
 
 .home-demographics {
-  background-color: blue; }
+  padding-top: 2em;
+  padding-bottom: 2em;
+  border-top: 1px solid yellow;
+  border-bottom: 1px solid yellow;
+  background-color: rgba(255, 255, 0, 0.1); }
 
 .home-infographic {
-  background-color: green; }
+  padding-top: 2em;
+  padding-bottom: 2em;
+  border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  background-color: rgba(0, 128, 0, 0.1); }

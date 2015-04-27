@@ -243,7 +243,7 @@ if(!function_exists('ct_filter_avatar')){
 		elseif ( empty($email) )
 			$default = "$host/avatar/?d=$default&amp;s={$size}";
 		elseif ( strpos($default, 'http://') === 0 )
-			$default = add_query_arg( 's', $size, $default );
+			$default = esc_url_raw(add_query_arg( 's', $size, $default ));
 
 		if ( !empty($email) ) {
 			$out = "$host/avatar/";

@@ -294,9 +294,9 @@ function cactus_scripts() {
 	/**
 	 * Right To Left CSS
 	 */
-	wp_enqueue_style( 'style', esc_url(get_template_directory_uri() . '/style.css'));
+	wp_enqueue_style( 'style', esc_url(get_stylesheet_directory_uri() . '/style.css'));
 	if(ot_get_option('rtl') == 'on'){
-		wp_enqueue_style( 'rtl', esc_url(get_template_directory_uri() . '/rtl.css'));
+        wp_enqueue_style( 'rtl', esc_url(get_template_directory_uri() . '/rtl.css'));
 	}
 
 	wp_enqueue_script( 'jquery'); // use default jQuery packed inside WordPress. If newer version is needed, this should be dequeue and enqueue again

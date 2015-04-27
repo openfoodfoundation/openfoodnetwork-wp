@@ -435,15 +435,15 @@ class MashMenuWalkerEdit extends Walker_Nav_Menu  {
 						<span class="item-type"><?php echo esc_html($item -> type_label);?></span>
 						<span class="item-order hide-if-js">
 							<a href="<?php
-							echo wp_nonce_url(add_query_arg(array('action' => 'move-up-menu-item', 'menu-item' => $item_id, ), remove_query_arg($removed_args, admin_url('nav-menus.php'))), 'move-menu_item');
+							echo wp_nonce_url(esc_url(add_query_arg(array('action' => 'move-up-menu-item', 'menu-item' => $item_id, ), remove_query_arg($removed_args, admin_url('nav-menus.php')))), 'move-menu_item');
 							?>" class="item-move-up"><abbr title="<?php esc_attr_e('Move up');?>">&#8593;</abbr></a>
 							|
 							<a href="<?php
-							echo wp_nonce_url(add_query_arg(array('action' => 'move-down-menu-item', 'menu-item' => $item_id, ), remove_query_arg($removed_args, admin_url('nav-menus.php'))), 'move-menu_item');
+							echo wp_nonce_url(esc_url(add_query_arg(array('action' => 'move-down-menu-item', 'menu-item' => $item_id, ), remove_query_arg($removed_args, admin_url('nav-menus.php')))), 'move-menu_item');
 							?>" class="item-move-down"><abbr title="<?php esc_attr_e('Move down');?>">&#8595;</abbr></a>
 						</span>
 						<a class="item-edit" id="edit-<?php echo $item_id;?>" title="<?php esc_attr_e('Edit Menu Item', 'cactusthemes');?>" href="<?php
-							echo ( isset( $_GET['edit-menu-item'] ) && $item_id == $_GET['edit-menu-item'] ) ? admin_url( 'nav-menus.php' ) : add_query_arg( 'edit-menu-item', $item_id, remove_query_arg( $removed_args, admin_url( 'nav-menus.php#menu-item-settings-' . $item_id ) ) );
+							echo ( isset( $_GET['edit-menu-item'] ) && $item_id == $_GET['edit-menu-item'] ) ? admin_url( 'nav-menus.php' ) : esc_url(add_query_arg( 'edit-menu-item', $item_id, remove_query_arg( $removed_args, admin_url( 'nav-menus.php#menu-item-settings-' . $item_id ) ) ));
 						?>"><?php esc_html_e('Edit Menu Item', 'cactusthemes');?></a>
 					</span>
 				</dt>
@@ -507,7 +507,7 @@ class MashMenuWalkerEdit extends Walker_Nav_Menu  {
 						</p>
 					<?php endif;?>
 					<a class="item-delete submitdelete deletion" id="delete-<?php echo $item_id;?>" href="<?php
-					echo wp_nonce_url(add_query_arg(array('action' => 'delete-menu-item', 'menu-item' => $item_id, ), remove_query_arg($removed_args, admin_url('nav-menus.php'))), 'delete-menu_item_' . $item_id);
+					echo wp_nonce_url(esc_url(add_query_arg(array('action' => 'delete-menu-item', 'menu-item' => $item_id, ), remove_query_arg($removed_args, admin_url('nav-menus.php')))), 'delete-menu_item_' . $item_id);
  ?>"><?php esc_html_e('Remove', 'cactusthemes');?></a> <span class="meta-sep"> | </span> <a class="item-cancel submitcancel" id="cancel-<?php echo $item_id;?>" href="<?php	echo esc_url(add_query_arg(array('edit-menu-item' => $item_id, 'cancel' => time()), remove_query_arg($removed_args, admin_url('nav-menus.php'))));?>#menu-item-settings-<?php echo $item_id;?>"><?php esc_html_e('Cancel', 'cactusthemes');?></a>
 				</div>
 

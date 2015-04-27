@@ -571,7 +571,7 @@ function custom_theme_options() {
         'id'          => 'background_slider_shortcode',
         'label'       => esc_html__('Background slider shortcode', 'cactusthemes' ),
         'desc'        => esc_html__('Enter background slider shortcode', 'cactusthemes' ),
-        'std'         => '[b-slider cats="" ids="" number_of_slides="" auto_play="" pagination="" transition="" full_height="" scroll_down_button=""]',
+        'std'         => '[b-slider cats="" ids="" number_of_slides="" auto_play="" pagination="" transition="" full_height="" scroll_down_button="" type="" order="" orderby=""]',
         'type'        => 'textarea-simple',
         'section'     => 'theme_layout',
         'rows'        => '',
