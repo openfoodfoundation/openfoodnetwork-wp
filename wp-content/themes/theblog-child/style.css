@@ -1,6 +1,14 @@
 /*
 Theme Name: theblog-child
 Template: theblog
+
+Created for Open Food Network
+Laura Summers @summerscope 2015
+
 */
 
+/* base theme style */
 @import url("../theblog/style.css");
+
+/* child styles */
+@import url("css/home.css");
