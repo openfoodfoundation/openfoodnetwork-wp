@@ -1,15 +1,13 @@
-
 $OFN-grey: #808284
 $OFN-dark-grey: #616466
-
 $OFN-green: #88bb7e
-$OFN-darker-green: #7bad71
+$OFN-blue: #61a1d7
 
 @mixin padding
 	padding-top: 2em
 	padding-bottom: 2em
 
-/* navbar */
+/* navbar  & homepage - custom color */
 #off-canvas, #header-navigation
 	&.background-color-2
 		background-color: $OFN-green
@@ -28,6 +26,22 @@ $OFN-darker-green: #7bad71
 
 .home-demographics
 	@include padding
+	// img
+	img.home-demographic
+		padding: 0em 3em
+
+	// column
+	.vc_column_container
+		padding-top: 2em
+		padding-bottom: 2em
+		background-color: rgba($OFN-blue, 0.1)
+	.vc_column_container:nth-child(1)
+		background-color: rgba($OFN-blue, 0.1)
+	.vc_column_container:nth-child(2)
+		background-color: rgba($OFN-blue, 0.15)
+	.vc_column_container:nth-child(3)
+		background-color: rgba($OFN-blue, 0.2)
+
 	// border-top: 1px solid yellow
 	// border-bottom: 1px solid yellow
 	// background-color: rgba(yellow, 0.1)

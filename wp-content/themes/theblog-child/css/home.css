@@ -1,4 +1,4 @@
-/* navbar */
+/* navbar  & homepage - custom color */
 #off-canvas.background-color-2, #header-navigation.background-color-2 {
   background-color: #88bb7e; }
 
@@ -13,6 +13,18 @@
 .home-demographics {
   padding-top: 2em;
   padding-bottom: 2em; }
+  .home-demographics img.home-demographic {
+    padding: 0em 3em; }
+  .home-demographics .vc_column_container {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    background-color: rgba(97, 161, 215, 0.1); }
+  .home-demographics .vc_column_container:nth-child(1) {
+    background-color: rgba(97, 161, 215, 0.1); }
+  .home-demographics .vc_column_container:nth-child(2) {
+    background-color: rgba(97, 161, 215, 0.15); }
+  .home-demographics .vc_column_container:nth-child(3) {
+    background-color: rgba(97, 161, 215, 0.2); }
 
 .home-infographic {
   padding-top: 2em;
