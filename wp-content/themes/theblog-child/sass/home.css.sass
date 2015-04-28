@@ -7,34 +7,98 @@ $OFN-blue: #61a1d7
 	padding-top: 2em
 	padding-bottom: 2em
 
+@mixin quickanim
+	-webkit-transition: all 200ms ease-in
+	-moz-transition: all 200ms ease-in
+	-ms-transition: all 200ms ease-in
+	-o-transition: all 200ms ease-in
+	transition: all 200ms ease-in
+
+/* helper classes */
+
+.uppercase
+	text-transform: uppercase
+
+h1, h2, h3, h4, h5, h6
+	&.heading-skinny
+		font-weight: 300
+	&.heading-normal
+		font-weight: 400
+
+.text-skinny
+	font-weight: 300
+.text-normal
+	font-weight: 400
+
+.text-large
+	font-size: 1.2352em
+	
+.text-larger
+	font-size: 1.41176em
+
 /* navbar  & homepage - custom color */
 #off-canvas, #header-navigation
 	&.background-color-2
 		background-color: $OFN-green
 
+/* homepage bg tile */
+#header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1
+	// background: $OFN-blue url('../img/tile.png') 0 0 repeat fixed
+
+/* Container width overrides */
+.cactus-single-page .single-page-content
+	padding-left: 20px
+	padding-right: 20px
+	@media all and (min-width: 1200px)
+		padding-left: 60px
+		padding-right: 60px
+
+
 .home-support
 	@include padding
-	// border-top: 1px solid red
-	// border-bottom: 1px solid red
-	// background-color: rgba(red, 0.1)
+	background-color: rgba($OFN-green, 0.2)
+	padding-left: 30px
+	padding-right: 30px
+	p 
+		font-size: 1.41176em
+		font-weight: 300
+	@media all and (min-width: 992px)
+		padding-left: 60px
+		padding-right: 60px
 
 .home-brand-story
 	@include padding
-	// border-top: 1px solid blue
-	// border-bottom: 1px solid blue
-	// background-color: rgba(blue, 0.1)
+	padding-left: 30px
+	padding-right: 30px
+	p
+		font-size: 1.41176em
+		font-weight: 300
+	.hidden-content
+		display: none
+	@media all and (min-width: 992px)
+		padding-left: 60px
+		padding-right: 60px
 
 .home-demographics
 	@include padding
 	// img
 	img.home-demographic
-		padding: 0em 3em
-
+		@include quickanim
+		width: 20%
+		opacity: 1
+		&:hover, &:focus, &:active
+			opacity: 0.7
+		@media all and (min-width: 1024px)
+			width: 50%
 	// column
-	.vc_column_container
+	.vc_col-sm-4.vc_column_container
 		padding-top: 2em
 		padding-bottom: 2em
+		padding-left: 30px
+		padding-right: 30px
 		background-color: rgba($OFN-blue, 0.1)
+		@media all and (min-width: 768px) and (max-width: 1024px)
+			width: 100%
 	.vc_column_container:nth-child(1)
 		background-color: rgba($OFN-blue, 0.1)
 	.vc_column_container:nth-child(2)
@@ -42,9 +106,6 @@ $OFN-blue: #61a1d7
 	.vc_column_container:nth-child(3)
 		background-color: rgba($OFN-blue, 0.2)
 
-	// border-top: 1px solid yellow
-	// border-bottom: 1px solid yellow
-	// background-color: rgba(yellow, 0.1)
 
 .home-infographic
 	@include padding
