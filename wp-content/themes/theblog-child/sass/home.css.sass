@@ -50,7 +50,8 @@ h1, h2, h3, h4, h5, h6
 
 /* homepage bg tile */
 #header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1
-	// background: $OFN-blue url('../img/tile.png') 0 0 repeat fixed
+	background-image: url('../img/tile-wide.png')
+	background-position: bottom center
 
 /* Container width overrides */
 .cactus-single-page .single-page-content
@@ -61,6 +62,12 @@ h1, h2, h3, h4, h5, h6
 		padding-right: 60px
 
 
+/* theme overrides */
+h1, h2, h3, h4, h5, h6
+	clear: none
+
+
+/* homepage */
 .home-support
 	@include padding
 	background-color: rgba($OFN-green, 0.2)

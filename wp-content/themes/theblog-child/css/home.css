@@ -31,6 +31,10 @@ h1.heading-normal, h2.heading-normal, h3.heading-normal, h4.heading-normal, h5.h
   background-color: #88bb7e; }
 
 /* homepage bg tile */
+#header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1 {
+  background-image: url("../img/tile-wide.png");
+  background-position: bottom center; }
+
 /* Container width overrides */
 .cactus-single-page .single-page-content {
   padding-left: 20px;
@@ -40,6 +44,11 @@ h1.heading-normal, h2.heading-normal, h3.heading-normal, h4.heading-normal, h5.h
       padding-left: 60px;
       padding-right: 60px; } }
 
+/* theme overrides */
+h1, h2, h3, h4, h5, h6 {
+  clear: none; }
+
+/* homepage */
 .home-support {
   padding-top: 2em;
   padding-bottom: 2em;
