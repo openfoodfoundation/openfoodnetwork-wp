@@ -48,10 +48,7 @@ h1.heading-normal, h2.heading-normal, h3.heading-normal, h4.heading-normal, h5.h
 h1, h2, h3, h4, h5, h6 {
   clear: none; }
 
-h2, h3 {
-  margin-bottom: 0.75em; }
-
-h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em; }
 
 /* homepage */
