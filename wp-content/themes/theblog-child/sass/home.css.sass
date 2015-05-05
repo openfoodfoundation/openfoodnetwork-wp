@@ -46,7 +46,10 @@ h1, h2, h3, h4, h5, h6
 /* navbar  & homepage - custom color */
 #off-canvas, #header-navigation
 	&.background-color-2
-		background-color: $OFN-green
+		background-color: white
+
+header .nav-default > .navbar-default .navbar-nav > li > a
+	color: rgba($OFN-grey, 0.6)
 
 /* homepage bg tile */
 #header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1
@@ -148,4 +151,17 @@ h2, h3, h4, h5, h6
 body.blog #body-wrap
 	background-color: #f2f2f2
 
-	
+
+// Standard pages
+.title-content
+	text-align: center
+	padding-top: 2rem
+	padding-bottom: 2.5rem
+	background-color: $OFN-green
+	background-image: url('../img/tile-wide.png')
+	background-repeat: no-repeat
+	background-position: top center
+	&, & *
+		color: white
+
+
