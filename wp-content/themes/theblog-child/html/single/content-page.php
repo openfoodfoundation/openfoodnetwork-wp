@@ -6,16 +6,6 @@
  */
 ?>
 
-<?php if(!is_front_page() && !is_page_template('page-templates/front-page.php')):?>
-    <div class="title-content">
-        <div class="text-2 font-1">
-            <div>
-                <h1><?php the_title(); ?></h1>
-            </div>
-        </div>
-    </div><!-- .title-content -->
-<?php endif;?>
-
 <div class="single-page-content"><!--Single Page Content-->
     
     <article>
