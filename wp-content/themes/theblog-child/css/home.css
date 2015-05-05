@@ -28,7 +28,10 @@ h1.heading-normal, h2.heading-normal, h3.heading-normal, h4.heading-normal, h5.h
 
 /* navbar  & homepage - custom color */
 #off-canvas.background-color-2, #header-navigation.background-color-2 {
-  background-color: #f2f2f2; }
+  background-color: white; }
+
+body.home.page .navbar.background-color-1 {
+  background-color: white; }
 
 /* mobile navbar */
 header .nav-default > .navbar-default .navbar-toggle .icon-bar {
