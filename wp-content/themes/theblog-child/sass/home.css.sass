@@ -55,10 +55,11 @@ body.home.page
 header .nav-default > .navbar-default .navbar-toggle .icon-bar
 	background-color: $OFN-grey
 
-header .nav-default > .navbar-default .navbar-nav > li > a
+
+header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a, .off-canvas-inner .off-menu > ul li a
 	color: rgba($OFN-grey, 0.6)
 	&:hover, &:focus, &:active
-		color: rgba($OFN-grey, 1.0)
+		color: rgba($OFN-grey, 1.0) !important
 
 /* homepage bg tile */
 #header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1
@@ -152,9 +153,8 @@ h2, h3, h4, h5, h6
 
 .home-infographic
 	@include padding
-	// border-top: 1px solid green
-	// border-bottom: 1px solid green
-	// background-color: rgba(green, 0.1)
+
+
 
 // Blog & news pages only
 body.blog #body-wrap
