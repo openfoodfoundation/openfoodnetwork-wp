@@ -39,8 +39,8 @@ header .nav-default > .navbar-default .navbar-toggle .icon-bar {
 
 header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a, .off-canvas-inner .off-menu > ul li a {
   color: rgba(128, 130, 132, 0.6); }
-  header .nav-default > .navbar-default .navbar-nav > li > a:hover, header .nav-default > .navbar-default .navbar-nav > li > a:focus, header .nav-default > .navbar-default .navbar-nav > li > a:active, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:hover, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:focus, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:active, .off-canvas-inner .off-menu > ul li a:hover, .off-canvas-inner .off-menu > ul li a:focus, .off-canvas-inner .off-menu > ul li a:active {
-    color: #808284 !important; }
+  header .nav-default > .navbar-default .navbar-nav > li > a:hover, header .nav-default > .navbar-default .navbar-nav > li > a:focus, header .nav-default > .navbar-default .navbar-nav > li > a:active, header .nav-default > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:hover, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:focus, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:active, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a, .off-canvas-inner .off-menu > ul li a:hover, .off-canvas-inner .off-menu > ul li a:focus, .off-canvas-inner .off-menu > ul li a:active, .off-canvas-inner .off-menu > ul li a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a {
+    color: #808284; }
 
 /* homepage bg tile */
 #header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1 {
