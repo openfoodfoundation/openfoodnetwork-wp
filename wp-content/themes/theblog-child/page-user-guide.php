@@ -43,11 +43,18 @@ get_header(); ?>
 
 			    <div class="row">
 
-			    		<div class="col-md-4 widget-area cactus-sidebar sidebar-left">
-			    			Menu goes here
+			    		<div class="col-md-3 widget-area cactus-sidebar sidebar-left" role="complementary">
+			    			<?php 
+									wp_nav_menu(array(
+										'theme_location' => 'user_guide', // menu slug from step 1
+										'container' => false, // 'div' container will not be added
+										'menu_class' => 'nav', // <ul class="nav"> 
+										'fallback_cb' => 'default_user_guide', // name of default function from step 2
+									));
+								?>
 			    		</div>
 
-			        <div class="col-md-8 sidebar-left fix-right-left">
+			        <div class="col-md-9 sidebar-left fix-right-left">
 
 								<?php while ( have_posts() ) : the_post(); ?>
 
@@ -58,7 +65,7 @@ get_header(); ?>
 								<?php endwhile; // end of the loop. ?>
 
 							</div>
-							
+
 				</div>
 
 			    <?php if ( is_active_sidebar( 'mainbottom_sidebar' ) && $paged < 2 ):?>
