@@ -82,28 +82,22 @@ header .nav-default > .navbar-default .navbar-toggle .icon-bar {
 header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a, .off-canvas-inner .off-menu > ul li a {
   color: rgba(128, 130, 132, 0.6); }
   /* line 101, ../sass/style.css.sass */
-  header .nav-default > .navbar-default .navbar-nav > li > a:hover, header .nav-default > .navbar-default .navbar-nav > li > a:focus, header .nav-default > .navbar-default .navbar-nav > li > a:active,
-  header .nav-default > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a,
-  header .nav-default > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default ul > li:hover > a, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:hover, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:focus, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:active,
-  header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a,
-  header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default ul > li:hover > a, .off-canvas-inner .off-menu > ul li a:hover, .off-canvas-inner .off-menu > ul li a:focus, .off-canvas-inner .off-menu > ul li a:active,
-  .off-canvas-inner .off-menu > ul li a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a,
-  .off-canvas-inner .off-menu > ul li a header .nav-default.index-v2 > .navbar-default ul > li:hover > a {
+  header .nav-default > .navbar-default .navbar-nav > li > a:hover, header .nav-default > .navbar-default .navbar-nav > li > a:focus, header .nav-default > .navbar-default .navbar-nav > li > a:active, header .nav-default > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a, header .nav-default > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default ul > li:hover > a, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:hover, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:focus, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a:active, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a, header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default ul > li:hover > a, .off-canvas-inner .off-menu > ul li a:hover, .off-canvas-inner .off-menu > ul li a:focus, .off-canvas-inner .off-menu > ul li a:active, .off-canvas-inner .off-menu > ul li a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a, .off-canvas-inner .off-menu > ul li a header .nav-default.index-v2 > .navbar-default ul > li:hover > a {
     color: #808284 !important; }
 
 /* */
 /* */
 /* homepage */
 /* homepage bg tile */
-/* line 113, ../sass/style.css.sass */
+/* line 109, ../sass/style.css.sass */
 #header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1 {
   background-image: url("../img/tile-wide.png");
   background-position: center center; }
 
-/* line 120, ../sass/style.css.sass */
+/* line 116, ../sass/style.css.sass */
 .header-v2.slider .text-content .text-3.font-1 {
   display: none; }
-/* line 122, ../sass/style.css.sass */
+/* line 118, ../sass/style.css.sass */
 .header-v2.slider .text-content .text-2.font-3 {
   text-align: center;
   font-family: "Oswald";
@@ -111,47 +105,47 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
   font-size: 82px;
   margin-top: 40px; }
 
-/* line 130, ../sass/style.css.sass */
+/* line 126, ../sass/style.css.sass */
 .home-support {
   padding-top: 2em;
   padding-bottom: 2em;
   background-color: rgba(136, 187, 126, 0.2);
   padding-left: 30px;
   padding-right: 30px; }
-  /* line 135, ../sass/style.css.sass */
+  /* line 131, ../sass/style.css.sass */
   .home-support p {
     font-size: 1.41176em;
     font-weight: 300; }
   @media all and (min-width: 992px) {
-    /* line 130, ../sass/style.css.sass */
+    /* line 126, ../sass/style.css.sass */
     .home-support {
       padding-left: 60px;
       padding-right: 60px; } }
 
-/* line 142, ../sass/style.css.sass */
+/* line 138, ../sass/style.css.sass */
 .home-brand-story {
   padding-top: 2em;
   padding-bottom: 2em;
   padding-left: 30px;
   padding-right: 30px; }
-  /* line 146, ../sass/style.css.sass */
+  /* line 142, ../sass/style.css.sass */
   .home-brand-story p {
     font-size: 1.41176em;
     font-weight: 300; }
-  /* line 149, ../sass/style.css.sass */
+  /* line 145, ../sass/style.css.sass */
   .home-brand-story .hidden-content {
     display: none; }
   @media all and (min-width: 992px) {
-    /* line 142, ../sass/style.css.sass */
+    /* line 138, ../sass/style.css.sass */
     .home-brand-story {
       padding-left: 60px;
       padding-right: 60px; } }
 
-/* line 155, ../sass/style.css.sass */
+/* line 151, ../sass/style.css.sass */
 .home-demographics {
   padding-top: 2em;
   padding-bottom: 2em; }
-  /* line 158, ../sass/style.css.sass */
+  /* line 154, ../sass/style.css.sass */
   .home-demographics img.home-demographic {
     -webkit-transition: all 200ms ease-in;
     -moz-transition: all 200ms ease-in;
@@ -160,14 +154,14 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
     transition: all 200ms ease-in;
     width: 20%;
     opacity: 1; }
-    /* line 162, ../sass/style.css.sass */
+    /* line 158, ../sass/style.css.sass */
     .home-demographics img.home-demographic:hover, .home-demographics img.home-demographic:focus, .home-demographics img.home-demographic:active {
       opacity: 0.7; }
     @media all and (min-width: 1024px) {
-      /* line 158, ../sass/style.css.sass */
+      /* line 154, ../sass/style.css.sass */
       .home-demographics img.home-demographic {
         width: 50%; } }
-  /* line 167, ../sass/style.css.sass */
+  /* line 163, ../sass/style.css.sass */
   .home-demographics .vc_col-sm-4.vc_column_container {
     padding-top: 2em;
     padding-bottom: 2em;
@@ -175,20 +169,20 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
     padding-right: 30px;
     background-color: rgba(97, 161, 215, 0.1); }
     @media all and (min-width: 768px) and (max-width: 1024px) {
-      /* line 167, ../sass/style.css.sass */
+      /* line 163, ../sass/style.css.sass */
       .home-demographics .vc_col-sm-4.vc_column_container {
         width: 100%; } }
-  /* line 175, ../sass/style.css.sass */
+  /* line 171, ../sass/style.css.sass */
   .home-demographics .vc_column_container:nth-child(1) {
     background-color: rgba(97, 161, 215, 0.1); }
-  /* line 177, ../sass/style.css.sass */
+  /* line 173, ../sass/style.css.sass */
   .home-demographics .vc_column_container:nth-child(2) {
     background-color: rgba(97, 161, 215, 0.15); }
-  /* line 179, ../sass/style.css.sass */
+  /* line 175, ../sass/style.css.sass */
   .home-demographics .vc_column_container:nth-child(3) {
     background-color: rgba(97, 161, 215, 0.2); }
 
-/* line 183, ../sass/style.css.sass */
+/* line 179, ../sass/style.css.sass */
 .home-infographic {
   padding-top: 2em;
   padding-bottom: 2em; }
@@ -196,26 +190,26 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
 /* */
 /* */
 /* Container width overrides */
-/* line 191, ../sass/style.css.sass */
+/* line 187, ../sass/style.css.sass */
 .cactus-single-page .single-page-content {
   padding-left: 20px;
   padding-right: 20px; }
   @media all and (min-width: 1200px) {
-    /* line 191, ../sass/style.css.sass */
+    /* line 187, ../sass/style.css.sass */
     .cactus-single-page .single-page-content {
       padding-left: 60px;
       padding-right: 60px; } }
 
 /* theme overrides */
-/* line 199, ../sass/style.css.sass */
+/* line 195, ../sass/style.css.sass */
 h1, h2, h3, h4, h5, h6 {
   clear: none; }
 
-/* line 202, ../sass/style.css.sass */
+/* line 198, ../sass/style.css.sass */
 h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em; }
 
-/* line 206, ../sass/style.css.sass */
+/* line 202, ../sass/style.css.sass */
 .title-content {
   text-align: center;
   padding-top: 3rem;
@@ -224,25 +218,25 @@ h2, h3, h4, h5, h6 {
   background-image: url("../img/tile-wide.png");
   background-repeat: no-repeat;
   background-position: top center; }
-  /* line 214, ../sass/style.css.sass */
+  /* line 210, ../sass/style.css.sass */
   .title-content, .title-content * {
     color: white; }
 
-/* line 218, ../sass/style.css.sass */
+/* line 214, ../sass/style.css.sass */
 body.blog #body-wrap {
   background-color: #f2f2f2; }
 
 /* */
 /* */
 /* User Guide */
-/* line 229, ../sass/style.css.sass */
+/* line 225, ../sass/style.css.sass */
 .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li {
   font-weight: 700; }
-/* line 231, ../sass/style.css.sass */
+/* line 227, ../sass/style.css.sass */
 .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a {
   font-size: 0.823rem;
   padding-left: 16px; }
-  /* line 234, ../sass/style.css.sass */
+  /* line 230, ../sass/style.css.sass */
   .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a:hover, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a:active, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a:focus, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a:hover, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a:active, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a:focus {
     color: #69a95d; }
 
@@ -250,40 +244,40 @@ body.blog #body-wrap {
 /* */
 /* PLATFORM  */
 /* > FOOD PRODUCERS */
-/* line 245, ../sass/style.css.sass */
+/* line 241, ../sass/style.css.sass */
 body.page-id-26 #cactus-body-container {
   background-position: center 200px;
   background-repeat: no-repeat;
   background-image: url("../img/wp-fullscreen-bg03.jpg"); }
-  /* line 249, ../sass/style.css.sass */
+  /* line 245, ../sass/style.css.sass */
   body.page-id-26 #cactus-body-container .cactus-single-page .container {
     background-color: transparent; }
-    /* line 251, ../sass/style.css.sass */
+    /* line 247, ../sass/style.css.sass */
     body.page-id-26 #cactus-body-container .cactus-single-page .container .single-page-content {
       background-color: transparent; }
 
 /* > FOOD HUBS */
-/* line 256, ../sass/style.css.sass */
+/* line 252, ../sass/style.css.sass */
 body.page-id-29 #cactus-body-container {
   background-position: center 200px;
   background-repeat: no-repeat;
   background-image: url("../img/wp-fullscreen-bg01.jpg"); }
-  /* line 260, ../sass/style.css.sass */
+  /* line 256, ../sass/style.css.sass */
   body.page-id-29 #cactus-body-container .cactus-single-page .container {
     background-color: transparent; }
-    /* line 262, ../sass/style.css.sass */
+    /* line 258, ../sass/style.css.sass */
     body.page-id-29 #cactus-body-container .cactus-single-page .container .single-page-content {
       background-color: transparent; }
 
 /* > FOOD SYSTEM PARTNERS */
-/* line 267, ../sass/style.css.sass */
+/* line 263, ../sass/style.css.sass */
 body.page-id-34 #cactus-body-container {
   background-position: center 200px;
   background-repeat: no-repeat;
   background-image: url("../img/wp-fullscreen-bg02.jpg"); }
-  /* line 271, ../sass/style.css.sass */
+  /* line 267, ../sass/style.css.sass */
   body.page-id-34 #cactus-body-container .cactus-single-page .container {
     background-color: transparent; }
-    /* line 273, ../sass/style.css.sass */
+    /* line 269, ../sass/style.css.sass */
     body.page-id-34 #cactus-body-container .cactus-single-page .container .single-page-content {
       background-color: transparent; }
