@@ -33,11 +33,14 @@
     if($theme_layout == 'standard'):
 ?>
 
-    <div class="alert alert-default alert-shop alert-dismissible" role="alert">
-        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
-        Want to shop on OFN? 
-        <strong><a href="#">Start here</a></strong>
-    </div>
+    <?php if(is_front_page() && is_page_template('page-templates/front-page.php')):?>
+        <div class="alert alert-default alert-shop alert-dismissible" role="alert">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">×</span></button>
+            Want to shop on OFN? 
+            <strong><a href="#">Start here</a></strong>
+        </div><!-- alert -->
+    <?php endif;?>
+    
 
          <nav class="navbar navbar-default background-color-1 preload" role="navigation" data-fixed-scroll-top="<?php echo esc_attr($fixed_scroll_top);?>" data-fixed="<?php echo esc_attr($sticky_menu);?>">
             <div class="container">
