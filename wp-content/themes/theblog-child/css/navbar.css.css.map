@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": ";;;;AAIC,qEAAoB;EACnB,gBAAgB,EAAE,KAAK;;AAExB,yCAA0B;EACzB,gBAAgB,EAAE,KAAK;;;AAGzB,8DAA8D;EAC7D,gBAAgB,ECNN,OAAO;;ADSlB,sKAAsK;EACrK,KAAK,EAAE,wBAAoB;EAC3B,q7BAAqG;IACpG,KAAK,EAAE,OAAoB",
-"sources": ["../sass/navbar.css.sass","../sass/colors.css.sass"],
-"names": [],
-"file": "navbar.css.css"
-}

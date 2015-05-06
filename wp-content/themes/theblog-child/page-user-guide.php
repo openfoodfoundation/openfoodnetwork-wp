@@ -43,15 +43,17 @@ get_header(); ?>
 
 			    <div class="row">
 
-			    		<div class="col-md-3 widget-area cactus-sidebar sidebar-left" role="complementary">
-			    			<?php 
-									wp_nav_menu(array(
-										'theme_location' => 'user_guide', // menu slug from step 1
-										'container' => false, // 'div' container will not be added
-										'menu_class' => 'nav', // <ul class="nav"> 
-										'fallback_cb' => 'default_user_guide', // name of default function from step 2
-									));
-								?>
+			    		<div class="col-md-3 widget-area cactus-sidebar sidebar-left user-guide-sidebar" role="complementary">
+			    			<aside class="widget widget_nav_menu module widget-col">
+				    			<?php 
+										wp_nav_menu(array(
+											'theme_location' => 'user_guide', // menu slug from step 1
+											'container' => false, // 'div' container will not be added
+											'menu_class' => 'menu', // <ul class="nav"> 
+											'fallback_cb' => 'default_user_guide', // name of default function from step 2
+										));
+									?>
+								</aside>
 			    		</div>
 
 			        <div class="col-md-9 sidebar-left fix-right-left">
