@@ -242,16 +242,45 @@ body.blog #body-wrap {
 
 /* */
 /* */
-/* PLATFORM > FOOD PRODUCERS */
-/* line 240, ../sass/style.css.sass */
+/* PLATFORM  */
+/* > FOOD PRODUCERS */
+/* line 243, ../sass/style.css.sass */
 body.page-id-26 #cactus-body-container {
   background-position: center 200px;
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-image: url("../img/wp-fullscreen-bg03.jpg"); }
-  /* line 244, ../sass/style.css.sass */
+  /* line 247, ../sass/style.css.sass */
   body.page-id-26 #cactus-body-container .cactus-single-page .container {
     background-color: transparent; }
-    /* line 246, ../sass/style.css.sass */
+    /* line 249, ../sass/style.css.sass */
     body.page-id-26 #cactus-body-container .cactus-single-page .container .single-page-content {
+      background-color: transparent; }
+
+/* > FOOD HUBS */
+/* line 254, ../sass/style.css.sass */
+body.page-id-29 #cactus-body-container {
+  background-position: center 200px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-image: url("../img/wp-fullscreen-bg01.jpg"); }
+  /* line 258, ../sass/style.css.sass */
+  body.page-id-29 #cactus-body-container .cactus-single-page .container {
+    background-color: transparent; }
+    /* line 260, ../sass/style.css.sass */
+    body.page-id-29 #cactus-body-container .cactus-single-page .container .single-page-content {
+      background-color: transparent; }
+
+/* > FOOD SYSTEM PARTNERS */
+/* line 265, ../sass/style.css.sass */
+body.page-id-34 #cactus-body-container {
+  background-position: center 200px;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-image: url("../img/wp-fullscreen-bg02.jpg"); }
+  /* line 269, ../sass/style.css.sass */
+  body.page-id-34 #cactus-body-container .cactus-single-page .container {
+    background-color: transparent; }
+    /* line 271, ../sass/style.css.sass */
+    body.page-id-34 #cactus-body-container .cactus-single-page .container .single-page-content {
       background-color: transparent; }
