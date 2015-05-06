@@ -89,7 +89,7 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
   header .nav-default.index-v2 > .navbar-default .navbar-nav > li > a header .nav-default.index-v2 > .navbar-default ul > li:hover > a, .off-canvas-inner .off-menu > ul li a:hover, .off-canvas-inner .off-menu > ul li a:focus, .off-canvas-inner .off-menu > ul li a:active,
   .off-canvas-inner .off-menu > ul li a header .nav-default.index-v2 > .navbar-default .navbar-nav > li:hover > a,
   .off-canvas-inner .off-menu > ul li a header .nav-default.index-v2 > .navbar-default ul > li:hover > a {
-    color: #808284; }
+    color: #808284 !important; }
 
 /* */
 /* */
