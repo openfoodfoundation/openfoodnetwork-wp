@@ -8,7 +8,7 @@ Laura Summers @summerscope 2015
 */
 
 /* import no longer best practice: https://codex.wordpress.org/Child_Themes */
-@import url("../theblog/style.css");
+/*@import url("../theblog/style.css");*/
 
 /* child styles */
 @import url("css/style.css");
