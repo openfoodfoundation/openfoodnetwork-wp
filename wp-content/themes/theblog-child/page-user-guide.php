@@ -1,14 +1,7 @@
 <?php
-/**
- * The template for displaying all pages.
- *
- * This is the template that displays all pages by default.
- * Please note that this is the WordPress construct of pages
- * and that other 'pages' on your WordPress site will use a
- * different template.
- *
- * @package cactus
- */
+/*
+Template Name: User Guide
+*/
 
 get_header(); ?>
 
@@ -47,11 +40,20 @@ get_header(); ?>
 			<?php endif;?>
 
 			<div class="container">
-		    	<?php if ( is_active_sidebar( 'maintop_sidebar' ) && $paged < 2 ):?>
+		    	<h2> MENU GOES HERE </h2>
+
+		    	<div class="main-top-sidebar row">
+              <?php dynamic_sidebar( 'maintop_sidebar' );?>
+          </div>
+
+          <!--
+          	<?php if ( is_user_guide( 'userguide_sidebar' ) && $paged < 2 ):?>
                     <div class="main-top-sidebar row">
-                        <?php dynamic_sidebar( 'maintop_sidebar' );?>
+                        <?php dynamic_sidebar( 'userguide_sidebar' );?>
                     </div>
                 <?php endif;?>
+                -->
+
 
 			    <div class="row">
 
