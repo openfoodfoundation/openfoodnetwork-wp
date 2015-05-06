@@ -40,14 +40,9 @@ get_header(); ?>
 			<?php endif;?>
 
 			<div class="container">
+		    	<h2> MENU GOES HERE </h2>
+
 		    	
-          <!--
-          	<?php if ( is_user_guide( 'userguide_sidebar' ) && $paged < 2 ):?>
-                    <div class="main-top-sidebar row">
-                        <?php dynamic_sidebar( 'userguide_sidebar' );?>
-                    </div>
-                <?php endif;?>
-                -->
 
 
 			    <div class="row">
