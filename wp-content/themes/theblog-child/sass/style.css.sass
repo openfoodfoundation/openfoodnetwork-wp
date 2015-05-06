@@ -1,0 +1,37 @@
+@import "colors.css.sass"
+@import "mixins.css.sass"
+@import "navbar.css.sass"
+@import "helper-classes.css.sass"
+@import "home.css.sass"
+
+
+/* Container width overrides */
+.cactus-single-page .single-page-content
+	padding-left: 20px
+	padding-right: 20px
+	@media all and (min-width: 1200px)
+		padding-left: 60px
+		padding-right: 60px
+
+/* theme overrides */
+h1, h2, h3, h4, h5, h6
+	clear: none
+
+h2, h3, h4, h5, h6
+	margin-bottom: 0.5em
+
+// Standard pages
+.title-content
+	text-align: center
+	padding-top: 3rem
+	padding-bottom: 3.5rem
+	background-color: $OFN-brand
+	background-image: url('../img/tile-wide.png')
+	background-repeat: no-repeat
+	background-position: top center
+	&, & *
+		color: white
+
+// Blog & news pages only
+body.blog #body-wrap
+	background-color: #f2f2f2
