@@ -96,13 +96,12 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
 /* line 107, ../sass/style.css.sass */
 #header-navigation.index-v2 .cactus-wraper-slider-bg .background-color-1 {
   background-image: url("../img/tile-wide.png");
-  background-repeat: no-repeat;
-  background-position: bottom center; }
+  background-position: center center; }
 
-/* line 115, ../sass/style.css.sass */
+/* line 114, ../sass/style.css.sass */
 .header-v2.slider .text-content .text-3.font-1 {
   display: none; }
-/* line 117, ../sass/style.css.sass */
+/* line 116, ../sass/style.css.sass */
 .header-v2.slider .text-content .text-2.font-3 {
   text-align: center;
   font-family: "Oswald";
@@ -110,47 +109,47 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
   font-size: 82px;
   margin-top: 40px; }
 
-/* line 125, ../sass/style.css.sass */
+/* line 124, ../sass/style.css.sass */
 .home-support {
   padding-top: 2em;
   padding-bottom: 2em;
   background-color: rgba(136, 187, 126, 0.2);
   padding-left: 30px;
   padding-right: 30px; }
-  /* line 130, ../sass/style.css.sass */
+  /* line 129, ../sass/style.css.sass */
   .home-support p {
     font-size: 1.41176em;
     font-weight: 300; }
   @media all and (min-width: 992px) {
-    /* line 125, ../sass/style.css.sass */
+    /* line 124, ../sass/style.css.sass */
     .home-support {
       padding-left: 60px;
       padding-right: 60px; } }
 
-/* line 137, ../sass/style.css.sass */
+/* line 136, ../sass/style.css.sass */
 .home-brand-story {
   padding-top: 2em;
   padding-bottom: 2em;
   padding-left: 30px;
   padding-right: 30px; }
-  /* line 141, ../sass/style.css.sass */
+  /* line 140, ../sass/style.css.sass */
   .home-brand-story p {
     font-size: 1.41176em;
     font-weight: 300; }
-  /* line 144, ../sass/style.css.sass */
+  /* line 143, ../sass/style.css.sass */
   .home-brand-story .hidden-content {
     display: none; }
   @media all and (min-width: 992px) {
-    /* line 137, ../sass/style.css.sass */
+    /* line 136, ../sass/style.css.sass */
     .home-brand-story {
       padding-left: 60px;
       padding-right: 60px; } }
 
-/* line 150, ../sass/style.css.sass */
+/* line 149, ../sass/style.css.sass */
 .home-demographics {
   padding-top: 2em;
   padding-bottom: 2em; }
-  /* line 153, ../sass/style.css.sass */
+  /* line 152, ../sass/style.css.sass */
   .home-demographics img.home-demographic {
     -webkit-transition: all 200ms ease-in;
     -moz-transition: all 200ms ease-in;
@@ -159,14 +158,14 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
     transition: all 200ms ease-in;
     width: 20%;
     opacity: 1; }
-    /* line 157, ../sass/style.css.sass */
+    /* line 156, ../sass/style.css.sass */
     .home-demographics img.home-demographic:hover, .home-demographics img.home-demographic:focus, .home-demographics img.home-demographic:active {
       opacity: 0.7; }
     @media all and (min-width: 1024px) {
-      /* line 153, ../sass/style.css.sass */
+      /* line 152, ../sass/style.css.sass */
       .home-demographics img.home-demographic {
         width: 50%; } }
-  /* line 162, ../sass/style.css.sass */
+  /* line 161, ../sass/style.css.sass */
   .home-demographics .vc_col-sm-4.vc_column_container {
     padding-top: 2em;
     padding-bottom: 2em;
@@ -174,20 +173,20 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
     padding-right: 30px;
     background-color: rgba(97, 161, 215, 0.1); }
     @media all and (min-width: 768px) and (max-width: 1024px) {
-      /* line 162, ../sass/style.css.sass */
+      /* line 161, ../sass/style.css.sass */
       .home-demographics .vc_col-sm-4.vc_column_container {
         width: 100%; } }
-  /* line 170, ../sass/style.css.sass */
+  /* line 169, ../sass/style.css.sass */
   .home-demographics .vc_column_container:nth-child(1) {
     background-color: rgba(97, 161, 215, 0.1); }
-  /* line 172, ../sass/style.css.sass */
+  /* line 171, ../sass/style.css.sass */
   .home-demographics .vc_column_container:nth-child(2) {
     background-color: rgba(97, 161, 215, 0.15); }
-  /* line 174, ../sass/style.css.sass */
+  /* line 173, ../sass/style.css.sass */
   .home-demographics .vc_column_container:nth-child(3) {
     background-color: rgba(97, 161, 215, 0.2); }
 
-/* line 178, ../sass/style.css.sass */
+/* line 177, ../sass/style.css.sass */
 .home-infographic {
   padding-top: 2em;
   padding-bottom: 2em; }
@@ -195,26 +194,26 @@ header .nav-default > .navbar-default .navbar-nav > li > a, header .nav-default.
 /* */
 /* */
 /* Container width overrides */
-/* line 186, ../sass/style.css.sass */
+/* line 185, ../sass/style.css.sass */
 .cactus-single-page .single-page-content {
   padding-left: 20px;
   padding-right: 20px; }
   @media all and (min-width: 1200px) {
-    /* line 186, ../sass/style.css.sass */
+    /* line 185, ../sass/style.css.sass */
     .cactus-single-page .single-page-content {
       padding-left: 60px;
       padding-right: 60px; } }
 
 /* theme overrides */
-/* line 194, ../sass/style.css.sass */
+/* line 193, ../sass/style.css.sass */
 h1, h2, h3, h4, h5, h6 {
   clear: none; }
 
-/* line 197, ../sass/style.css.sass */
+/* line 196, ../sass/style.css.sass */
 h2, h3, h4, h5, h6 {
   margin-bottom: 0.5em; }
 
-/* line 201, ../sass/style.css.sass */
+/* line 200, ../sass/style.css.sass */
 .title-content {
   text-align: center;
   padding-top: 3rem;
@@ -223,24 +222,24 @@ h2, h3, h4, h5, h6 {
   background-image: url("../img/tile-wide.png");
   background-repeat: no-repeat;
   background-position: top center; }
-  /* line 209, ../sass/style.css.sass */
+  /* line 208, ../sass/style.css.sass */
   .title-content, .title-content * {
     color: white; }
 
-/* line 213, ../sass/style.css.sass */
+/* line 212, ../sass/style.css.sass */
 body.blog #body-wrap {
   background-color: #f2f2f2; }
 
 /* */
 /* */
 /* User Guide */
-/* line 224, ../sass/style.css.sass */
+/* line 223, ../sass/style.css.sass */
 .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li {
   font-weight: 700; }
-/* line 226, ../sass/style.css.sass */
+/* line 225, ../sass/style.css.sass */
 .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a {
   font-size: 0.823rem;
   padding-left: 16px; }
-  /* line 229, ../sass/style.css.sass */
+  /* line 228, ../sass/style.css.sass */
   .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a:hover, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a:active, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide li > a:focus, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a:hover, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a:active, .cactus-sidebar.sidebar-left.user-guide-sidebar .widget_nav_menu ul#menu-user-guide ul.sub-menu li > a:focus {
     color: #69a95d; }
