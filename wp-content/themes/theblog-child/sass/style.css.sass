@@ -27,6 +27,10 @@ $OFN-blue: #61a1d7
 	-o-transition: all 200ms ease-in
 	transition: all 200ms ease-in
 
+@mixin fullwidthbg
+	background-position: center top 
+	background-repeat: no-repeat
+	background-size: 100% auto
 
 /*
 /*
@@ -228,6 +232,21 @@ body.blog #body-wrap
 				&:hover, &:active, &:focus
 					color: darken($OFN-brand, 10%)
 
+/*
+/*
+/* PLATFORM > FOOD PRODUCERS */
 
+body.page-id-26 
+	#cactus-body-container
+		@include fullwidthbg
+		background-image: url('../img/wp-fullscreen-bg03.jpg')
+		background-position: center 200px
+		.cactus-single-page
+			.container
+				background-color: transparent
+				.single-page-content
+					background-color: transparent
+
+ 
 
 
