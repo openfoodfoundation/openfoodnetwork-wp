@@ -60,10 +60,6 @@ h1.heading-normal, h2.heading-normal, h3.heading-normal, h4.heading-normal, h5.h
 body.home.page .navbar.background-color-1 {
   background-color: white; }
 
-/* line 75, ../sass/style.css.sass */
-header .nav-default > .navbar-default {
-  position: static; }
-
 /* line 78, ../sass/style.css.sass */
 .alert.alert-shop {
   background-color: #e4f0e2;
