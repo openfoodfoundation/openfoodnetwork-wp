@@ -40,37 +40,33 @@ get_header(); ?>
 			<?php endif;?>
 
 			<div class="container">
-		    	<h2> MENU GOES HERE </h2>
-
-		    	
-
 
 			    <div class="row">
 
-			        <div class="<?php echo esc_attr($page_sidebar_css);?> fix-right-left">
+			    		<div class="col-md-4 widget-area cactus-sidebar sidebar-left">
+			    			Menu goes here
+			    		</div>
 
-						<?php while ( have_posts() ) : the_post(); ?>
+			        <div class="col-md-8 sidebar-left fix-right-left">
 
-							<?php get_template_part( 'html/single/content', 'page' ); ?>
+								<?php while ( have_posts() ) : the_post(); ?>
 
-							<?php //cactus_print_social_share();?>
+									<?php get_template_part( 'html/single/content', 'page' ); ?>
 
-						<?php endwhile; // end of the loop. ?>
+									<?php //cactus_print_social_share();?>
 
-					</div>
+								<?php endwhile; // end of the loop. ?>
 
-					<?php
-					    if($page_sidebar != 'hidden' && $page_sidebar != '')
-					        get_sidebar();
-				    ?>
-
-
+							</div>
+							
 				</div>
+
 			    <?php if ( is_active_sidebar( 'mainbottom_sidebar' ) && $paged < 2 ):?>
 			        <div class="main-bottom-sidebar row">
 			            <?php dynamic_sidebar( 'mainbottom_sidebar' );?>
 			        </div>
 			    <?php endif;?>
+
 			</div>
 		</div><!-- .cactus-single-page -->
 	<?php elseif($page_content == 'blog'):?>
