@@ -1,5 +1,4 @@
 
-
 /*
 /*
 /* Custom colors */
@@ -27,7 +26,6 @@ $OFN-blue: #61a1d7
 	-ms-transition: all 200ms ease-in
 	-o-transition: all 200ms ease-in
 	transition: all 200ms ease-in
-
 
 
 /*
@@ -68,12 +66,26 @@ h1, h2, h3, h4, h5, h6
 /*
 /*
 /* navbar  & homepage - custom color */
-#off-canvas, #header-navigation,  
+#off-canvas, #header-navigation 
 	&.background-color-2
 		background-color: white
 body.home.page
 	.navbar.background-color-1 
 		background-color: white
+header .nav-default > .navbar-default
+	position: static
+
+.alert.alert-shop
+	background-color: lighten($OFN-brand, 30%)
+	text-align: center
+	font-size: 14px
+	-moz-border-radius: 0
+	-webkit-border-radius: 0
+	border-radius: 0
+	a
+		color: darken($OFN-brand, 10%)
+		text-decoration: none
+
 
 /* mobile navbar */
 header .nav-default > .navbar-default .navbar-toggle .icon-bar

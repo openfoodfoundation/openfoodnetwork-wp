@@ -34,6 +34,7 @@ get_header(); ?>
 
 	?>
 	<?php if($page_content == 'page_ct'):?>
+
 		<div class="cactus-single-page background-color-5c">
 		
 			<?php if(!is_front_page() && !is_page_template('page-templates/front-page.php')):?>
